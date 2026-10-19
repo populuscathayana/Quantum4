@@ -1,0 +1,6 @@
+%oldchk=/cluster/USER/Class4/Gau4-stage2-ts-20261019/jobs/ts-opt/calc.chk
+%chk=calc.chk
+%nprocshared=4
+%mem=8GB
+#p UB3LYP/Def2SVP EmpiricalDispersion=GD3BJ SCF=(Tight,XQC) Int=UltraFine NoSymm Geom=AllCheck Guess=Read IRC=(Forward,CalcFC,ReCalc=3,StepSize=5,MaxPoints=50) Pop=Full
+

@@ -1,0 +1,42 @@
+{
+  "reactant_match": {
+    "rmsd_A": 3.703226256888957e-05,
+    "max_atom_displacement_A": 8.404669333923828e-05,
+    "rotation_determinant": 1.0,
+    "permutation_1based": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "reactant_delta_E_kcal_mol": 0.0001929776684494506,
+  "product_carbon_chain": [
+    1,
+    3,
+    2,
+    9
+  ],
+  "broken_bond": [
+    1,
+    2
+  ],
+  "double_bond": [
+    2,
+    9
+  ],
+  "sources": {
+    "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.fchk": "5a57a47092274ebee9d59e7527cd31b3c915581e0b3b1eb38e91ed47bbee3ff8",
+    "received/reactant-endpoint-opt-3813-20261018T191840Z/raw/jobs/reactant-endpoint-opt/calc.fchk": "fa996eb70ec41c259df51b36bf0369c1d9f4eacd3f867c2077d3762af0adb34e",
+    "received/product-endpoint-opt-3812-20261018T191624Z/raw/jobs/product-endpoint-opt/calc.fchk": "388c53b178718b9db18daed5a1dffb07a708cb9290d9a227cf416e9998e371db"
+  },
+  "connectivity_verified": true,
+  "frequency_and_stability_audits": "separate"
+}

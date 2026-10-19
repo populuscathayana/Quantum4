@@ -1,0 +1,5055 @@
+{
+  "model": "UB3LYP-D3(BJ)/def2-SVP; Tight,XQC; UltraFine; NoSymm;0/2",
+  "rows": [
+    {
+      "direction": "reverse",
+      "point": 17,
+      "q_sqrt_amu_bohr": -2.58955731,
+      "energy_hartree": -156.4453910837282,
+      "S2": 0.7546392152010295,
+      "S2_after": 0.7500159859604663,
+      "spin_sum": 1.0,
+      "charge_sum": -9.99999999995796e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.01852,
+          "spin": 0.091161
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.105267,
+          "spin": -0.102167
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.014327,
+          "spin": 0.068735
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.028184,
+          "spin": -0.000254
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03021,
+          "spin": 0.005053
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.015198,
+          "spin": 0.002125
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.02985,
+          "spin": 0.003882
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.028012,
+          "spin": -0.000204
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029106,
+          "spin": 1.02427
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010301,
+          "spin": -0.046105
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025464,
+          "spin": -0.046496
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5347818588887077,
+        "C1-C3": 1.493859204914911,
+        "C2-C3": 1.5265679946364346,
+        "C2-C9": 1.4580420825276412
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -8.37281959320535e-08,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-017/calc.out",
+      "source_sha256": "9593d5d3cd02d96fa54e3924ad24b0ee3774fd0b2fd47c1b77e72aa052114763",
+      "fchk_sha256": "a277c9669c3bcef3a667c199f30ff55e92feb851d86d82f011fbc86bdc3109f3",
+      "relative_E_kcal_mol": 0.025624004245959495
+    },
+    {
+      "direction": "reverse",
+      "point": 16,
+      "q_sqrt_amu_bohr": -2.43697463,
+      "energy_hartree": -156.4453340841533,
+      "S2": 0.7546392113511491,
+      "S2_after": 0.7500159622534429,
+      "spin_sum": 1.0,
+      "charge_sum": 1.999999999996796e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.01941,
+          "spin": 0.096244
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.105648,
+          "spin": -0.10203
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.01348,
+          "spin": 0.062621
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.028221,
+          "spin": -0.00023
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030214,
+          "spin": 0.005215
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.015549,
+          "spin": 0.002798
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.029731,
+          "spin": 0.003518
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.027935,
+          "spin": -0.000272
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029141,
+          "spin": 1.024404
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010511,
+          "spin": -0.046042
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02552,
+          "spin": -0.046226
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5367626741954437,
+        "C1-C3": 1.4940556768287576,
+        "C2-C3": 1.5243188007306572,
+        "C2-C9": 1.4581729961183743
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -8.415329944000405e-08,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-016/calc.out",
+      "source_sha256": "98bc86759e6ea6506e6b04627eeec566def30b727ff6aa81bc576cf8fd18d6bc",
+      "fchk_sha256": "7e5c7c2c2818af14d108f55ea6f65a93b01b0f7d4b092d0684dd1f2325784225",
+      "relative_E_kcal_mol": 0.06139177750994634
+    },
+    {
+      "direction": "reverse",
+      "point": 15,
+      "q_sqrt_amu_bohr": -2.28461466,
+      "energy_hartree": -156.4452456441954,
+      "S2": 0.7546426720402195,
+      "S2_after": 0.7500159582233573,
+      "spin_sum": 1.0,
+      "charge_sum": -1.000000000007939e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.020015,
+          "spin": 0.100718
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.106452,
+          "spin": -0.101982
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.012789,
+          "spin": 0.056907
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.028235,
+          "spin": -0.000202
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030195,
+          "spin": 0.005263
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.016002,
+          "spin": 0.003772
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.029611,
+          "spin": 0.003141
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.027865,
+          "spin": -0.000374
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.02914,
+          "spin": 1.024637
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010898,
+          "spin": -0.045977
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025589,
+          "spin": -0.045903
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5387149335099732,
+        "C1-C3": 1.494287249379058,
+        "C2-C3": 1.5222366714507698,
+        "C2-C9": 1.4584398667651841
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.558045875706739e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-015/calc.out",
+      "source_sha256": "0cbcff51931c916830cedec9aa1352d646c8f61b1a2fd9b56de2362c7d9b497c",
+      "fchk_sha256": "c4b5dc65a6ac4c0e5043deb666164804dfc9d81ff90d74c467ecc583bc07b0aa",
+      "relative_E_kcal_mol": 0.11688868897304705
+    },
+    {
+      "direction": "reverse",
+      "point": 14,
+      "q_sqrt_amu_bohr": -2.13278711,
+      "energy_hartree": -156.4451163473668,
+      "S2": 0.7546518366692538,
+      "S2_after": 0.750015995028072,
+      "spin_sum": 1.0,
+      "charge_sum": 5.204170427930421e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.020312,
+          "spin": 0.104462
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.107746,
+          "spin": -0.102126
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.012156,
+          "spin": 0.052017
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.028239,
+          "spin": -0.00017
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030159,
+          "spin": 0.005143
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.016499,
+          "spin": 0.004976
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.029505,
+          "spin": 0.002795
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.027788,
+          "spin": -0.000511
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.02906,
+          "spin": 1.024907
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011409,
+          "spin": -0.045908
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025675,
+          "spin": -0.045585
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5407912326701048,
+        "C1-C3": 1.494432826248986,
+        "C2-C3": 1.5203835471827827,
+        "C2-C9": 1.4589022623919101
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -3.47366778896685e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-014/calc.out",
+      "source_sha256": "9680bc226ec2844a70d9a3d3506e3f1881430405447c757e2c33418d315eecfb",
+      "fchk_sha256": "c735598804da3ac881b183092beb5476cad3b756db385f5b90110a2315fd44a0",
+      "relative_E_kcal_mol": 0.19802367389712552
+    },
+    {
+      "direction": "reverse",
+      "point": 13,
+      "q_sqrt_amu_bohr": -1.98359363,
+      "energy_hartree": -156.4449228897419,
+      "S2": 0.7547169740860262,
+      "S2_after": 0.7500164084364497,
+      "spin_sum": 1.000001,
+      "charge_sum": -9.99999999995796e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.022927,
+          "spin": 0.110839
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.110635,
+          "spin": -0.103039
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.008041,
+          "spin": 0.047241
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.028606,
+          "spin": -0.000313
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03047,
+          "spin": 0.004741
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.01714,
+          "spin": 0.006128
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.029144,
+          "spin": 0.00257
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.027439,
+          "spin": -0.000557
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028831,
+          "spin": 1.023272
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011846,
+          "spin": -0.045726
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025788,
+          "spin": -0.045155
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5486117733151488,
+        "C1-C3": 1.49336214737926,
+        "C2-C3": 1.5171812431517062,
+        "C2-C9": 1.4594099021258498
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.1025809953935095e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-013/calc.out",
+      "source_sha256": "889dfdd91a5eba54b030eb04419d837413645bb8ab376b0f1e3c2aa1676918f6",
+      "fchk_sha256": "163ff14483244d10a6c9757d21b479827d7544b8d6a039580e9d98652f155c9d",
+      "relative_E_kcal_mol": 0.3194201663533458
+    },
+    {
+      "direction": "reverse",
+      "point": 12,
+      "q_sqrt_amu_bohr": -1.83393147,
+      "energy_hartree": -156.4445342903327,
+      "S2": 0.7549486173551276,
+      "S2_after": 0.7500179067404029,
+      "spin_sum": 0.999999,
+      "charge_sum": 9.999999999927602e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.030883,
+          "spin": 0.124866
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.116093,
+          "spin": -0.10591
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.003812,
+          "spin": 0.04227
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.029813,
+          "spin": -0.000833
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.031597,
+          "spin": 0.003944
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.017974,
+          "spin": 0.006778
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.028255,
+          "spin": 0.002595
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.026553,
+          "spin": -0.000385
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028601,
+          "spin": 1.016637
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011824,
+          "spin": -0.04534
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02575,
+          "spin": -0.044623
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.569032960807678,
+        "C1-C3": 1.4900924862770415,
+        "C2-C3": 1.5115019886227794,
+        "C2-C9": 1.4588186997278536
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.903327072090178e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-012/calc.out",
+      "source_sha256": "5f5a08cea0f42dfaa1bbbc5df049bc8ff73a5898b122a45c9ab6aa069a7275f2",
+      "fchk_sha256": "34a18da140877a7eb30a7c2c257c6a4a624840938195888b4eaacf48ffa641af",
+      "relative_E_kcal_mol": 0.5632699772275246
+    },
+    {
+      "direction": "reverse",
+      "point": 11,
+      "q_sqrt_amu_bohr": -1.68140407,
+      "energy_hartree": -156.4438005207879,
+      "S2": 0.755357984240872,
+      "S2_after": 0.7500205002090669,
+      "spin_sum": 0.9999999999999999,
+      "charge_sum": -9.999999999940612e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.040794,
+          "spin": 0.14434
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.122206,
+          "spin": -0.110533
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.018412,
+          "spin": 0.037995
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.031403,
+          "spin": -0.001582
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.033053,
+          "spin": 0.002915
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.018763,
+          "spin": 0.007089
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.027273,
+          "spin": 0.002758
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.02559,
+          "spin": -0.000113
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028485,
+          "spin": 1.00606
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.0115,
+          "spin": -0.044837
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02549,
+          "spin": -0.044092
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5951216300811757,
+        "C1-C3": 1.4869166186103562,
+        "C2-C3": 1.5064672029152464,
+        "C2-C9": 1.4562451948353412
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 4.79212104664839e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-011/calc.out",
+      "source_sha256": "8dc0cfd7661edf8fb52797716d8b15d8cb88ae8134e9552cb33a4eb63650074e",
+      "fchk_sha256": "323460b6b957b25042b8eb1d86238c45729c8de22868ffb403bd9f1b22c13b67",
+      "relative_E_kcal_mol": 1.0237173183739132
+    },
+    {
+      "direction": "reverse",
+      "point": 10,
+      "q_sqrt_amu_bohr": -1.52860768,
+      "energy_hartree": -156.4427389218833,
+      "S2": 0.7559578660239659,
+      "S2_after": 0.7500241951769082,
+      "spin_sum": 1.000001,
+      "charge_sum": -9.999999999923265e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.050897,
+          "spin": 0.167793
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.128103,
+          "spin": -0.116528
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.0332,
+          "spin": 0.034083
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.03307,
+          "spin": -0.002502
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.034559,
+          "spin": 0.001691
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.019464,
+          "spin": 0.007291
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.02633,
+          "spin": 0.00297
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.024683,
+          "spin": 0.000202
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028464,
+          "spin": 0.992761
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011058,
+          "spin": -0.044241
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025099,
+          "spin": -0.043519
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.6228181267624218,
+        "C1-C3": 1.4843793096123608,
+        "C2-C3": 1.5024700681388083,
+        "C2-C9": 1.4523979371240627
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 7.811669888724282e-08,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-010/calc.out",
+      "source_sha256": "0e8e25995ccc4e63cf5e316568aa0d9790e81e00c946a26ae95b72bdd0c064ed",
+      "fchk_sha256": "47b41bf8f43173f23893e42c75a1f85faa11a8e573a63f46d5e171e9f33429f4",
+      "relative_E_kcal_mol": 1.6898806886735753
+    },
+    {
+      "direction": "reverse",
+      "point": 9,
+      "q_sqrt_amu_bohr": -1.37576329,
+      "energy_hartree": -156.4414221622487,
+      "S2": 0.7568002141142429,
+      "S2_after": 0.7500292371966673,
+      "spin_sum": 1.0,
+      "charge_sum": 9.999999999940612e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.060792,
+          "spin": 0.195292
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.133531,
+          "spin": -0.123867
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.047578,
+          "spin": 0.030253
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034726,
+          "spin": -0.00361
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.036032,
+          "spin": 0.00025
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.020076,
+          "spin": 0.007453
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.025439,
+          "spin": 0.003211
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.02384,
+          "spin": 0.000554
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028551,
+          "spin": 0.976872
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010563,
+          "spin": -0.043539
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.024621,
+          "spin": -0.042869
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.651252422756889,
+        "C1-C3": 1.4824238568568953,
+        "C2-C3": 1.499319751611639,
+        "C2-C9": 1.4476842816043964
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -1.622487104668835e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-009/calc.out",
+      "source_sha256": "d7c785eba1c5dbeb90cdccbb37e164f850775f3a54db94e3a865b50cd41d280f",
+      "fchk_sha256": "61d7f5aa74c3bb46f025abdffa7473364a826aaa7bd54307b8c0fc53ad74c1c6",
+      "relative_E_kcal_mol": 2.5161598344432186
+    },
+    {
+      "direction": "reverse",
+      "point": 8,
+      "q_sqrt_amu_bohr": -1.22290572,
+      "energy_hartree": -156.4399338511773,
+      "S2": 0.7579583195458177,
+      "S2_after": 0.7500359830452169,
+      "spin_sum": 1.0,
+      "charge_sum": -1.000000000007939e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.070285,
+          "spin": 0.227285
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.138302,
+          "spin": -0.1326
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.061237,
+          "spin": 0.026371
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.03632,
+          "spin": -0.004933
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.037424,
+          "spin": -0.001437
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.020577,
+          "spin": 0.007607
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.024608,
+          "spin": 0.003474
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.023063,
+          "spin": 0.000943
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.028751,
+          "spin": 0.958114
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010036,
+          "spin": -0.042712
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.024072,
+          "spin": -0.042112
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.6801744984623472,
+        "C1-C3": 1.481020926991275,
+        "C2-C3": 1.4969752175545046,
+        "C2-C9": 1.442186051226946
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.4882269283589267e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-008/calc.out",
+      "source_sha256": "6df78a90230d950bc46a75833576e6ddafd64ea6e3008096da3246cee0506c1e",
+      "fchk_sha256": "afbe0fb3b391ffa035fe0966b9ddd9becc1b29553642636c317577f9f2fdeaa0",
+      "relative_E_kcal_mol": 3.450089132098548
+    },
+    {
+      "direction": "reverse",
+      "point": 7,
+      "q_sqrt_amu_bohr": -1.07004482,
+      "energy_hartree": -156.4383589306039,
+      "S2": 0.7595090834669023,
+      "S2_after": 0.7500448079545179,
+      "spin_sum": 1.0000010000000001,
+      "charge_sum": -9.999999999836529e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.079285,
+          "spin": 0.264061
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.142314,
+          "spin": -0.142675
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.074024,
+          "spin": 0.0223
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.037823,
+          "spin": -0.006499
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.038706,
+          "spin": -0.003396
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.020973,
+          "spin": 0.007772
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.023829,
+          "spin": 0.003755
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.022342,
+          "spin": 0.001371
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029084,
+          "spin": 0.936278
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.009505,
+          "spin": -0.041743
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02348,
+          "spin": -0.041223
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.7093677691244509,
+        "C1-C3": 1.480045991680639,
+        "C2-C3": 1.4952318938670848,
+        "C2-C9": 1.4361430075666897
+      },
+      "input_to_accepted_geometry_error_A": 4.921348068648301e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 6.939609420442139e-08,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-007/calc.out",
+      "source_sha256": "0e807c99196a0551e69d592b0eb0bd6c50aae6e1fe75f0727a2f0937b3fc6184",
+      "fchk_sha256": "d7eeda273354472c1cc4c4f77f403e852a1541e77f454410c483df28db534ac8",
+      "relative_E_kcal_mol": 4.438366712806395
+    },
+    {
+      "direction": "reverse",
+      "point": 6,
+      "q_sqrt_amu_bohr": -0.917181294,
+      "energy_hartree": -156.4367808806387,
+      "S2": 0.7615240291310883,
+      "S2_after": 0.7500560809583361,
+      "spin_sum": 1.000002,
+      "charge_sum": 6.938893903907228e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.087703,
+          "spin": 0.305876
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.145475,
+          "spin": -0.153937
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.085789,
+          "spin": 0.017959
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.039205,
+          "spin": -0.008331
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.039848,
+          "spin": -0.005645
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.021256,
+          "spin": 0.007956
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.023101,
+          "spin": 0.004051
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.021672,
+          "spin": 0.001839
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029547,
+          "spin": 0.911025
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.008989,
+          "spin": -0.04061
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.022865,
+          "spin": -0.040181
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.7387407622198991,
+        "C1-C3": 1.479443271712437,
+        "C2-C3": 1.493998639755962,
+        "C2-C9": 1.4296827611404896
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.1936128885281505e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-006/calc.out",
+      "source_sha256": "818237b760a193beeeda89a7c2c69978ec2dfe458f79e3a0dd524c361781e026",
+      "fchk_sha256": "09b8dcb6eb2cbadd674117a704b9ad749a17122f923b6679ecc9e0b1b04e7917",
+      "relative_E_kcal_mol": 5.428608016507827
+    },
+    {
+      "direction": "reverse",
+      "point": 5,
+      "q_sqrt_amu_bohr": -0.764318863,
+      "energy_hartree": -156.4352802133214,
+      "S2": 0.7640446949707691,
+      "S2_after": 0.7500700653846054,
+      "spin_sum": 0.999999,
+      "charge_sum": 1.0408340855860843e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.095416,
+          "spin": 0.352909
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.147669,
+          "spin": -0.166061
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.096364,
+          "spin": 0.013308
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.040426,
+          "spin": -0.010448
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.040813,
+          "spin": -0.0082
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.021391,
+          "spin": 0.008162
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.022432,
+          "spin": 0.004361
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.021057,
+          "spin": 0.002349
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030135,
+          "spin": 0.881869
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.0085,
+          "spin": -0.039292
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.022237,
+          "spin": -0.038958
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.7682665179822339,
+        "C1-C3": 1.4791972696159257,
+        "C2-C3": 1.4932845906121177,
+        "C2-C9": 1.4227785978947365
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.1332138544494228e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-005/calc.out",
+      "source_sha256": "4ee0326951af3ca9181dab5c7b1b0f34d7a1ec008af7cdf8eb425f33d2978df2",
+      "fchk_sha256": "a201d6b4293522952353e459c8727cd7d202ae66d43b0d9545a9b63bc22bbac3",
+      "relative_E_kcal_mol": 6.370290975540554
+    },
+    {
+      "direction": "reverse",
+      "point": 4,
+      "q_sqrt_amu_bohr": -0.611457287,
+      "energy_hartree": -156.4339329116676,
+      "S2": 0.7670321732640915,
+      "S2_after": 0.7500867106997506,
+      "spin_sum": 1.0,
+      "charge_sum": -1.0000000000027348e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.102369,
+          "spin": 0.404787
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.148869,
+          "spin": -0.178425
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.105655,
+          "spin": 0.008302
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.041468,
+          "spin": -0.012844
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.041583,
+          "spin": -0.011049
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.021374,
+          "spin": 0.008383
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.021814,
+          "spin": 0.004684
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.02049,
+          "spin": 0.002898
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03083,
+          "spin": 0.848576
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.008061,
+          "spin": -0.037774
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021622,
+          "spin": -0.037538
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.7978777446433036,
+        "C1-C3": 1.4792483543185864,
+        "C2-C3": 1.4929799399696388,
+        "C2-C9": 1.4156104320166654
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 8.833239917294122e-08,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-004/calc.out",
+      "source_sha256": "a76bf9ccbfaceacd8dfd7ecfcf5c1eb226f9ce7eca121cdef423dfd04187245d",
+      "fchk_sha256": "55dd3be9c7de38ed066012a5c6f0b99b5066a1e0099edc0b5ea3e3ad76c2b9f1",
+      "relative_E_kcal_mol": 7.215735527717407
+    },
+    {
+      "direction": "reverse",
+      "point": 3,
+      "q_sqrt_amu_bohr": -0.458596432,
+      "energy_hartree": -156.4328079915297,
+      "S2": 0.7703340595131731,
+      "S2_after": 0.750105485829165,
+      "spin_sum": 1.0,
+      "charge_sum": -9.999999999897244e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.108488,
+          "spin": 0.460739
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.149055,
+          "spin": -0.190154
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.113565,
+          "spin": 0.002936
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.042308,
+          "spin": -0.015495
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042137,
+          "spin": -0.01416
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.021187,
+          "spin": 0.008601
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.021245,
+          "spin": 0.005016
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.019966,
+          "spin": 0.00348
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.031601,
+          "spin": 0.810994
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007694,
+          "spin": -0.036048
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021041,
+          "spin": -0.035909
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.8275456178681466,
+        "C1-C3": 1.4795714604264736,
+        "C2-C3": 1.4930297719935635,
+        "C2-C9": 1.408289030720214
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 8.470294687867863e-09,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-003/calc.out",
+      "source_sha256": "d75c3a46cb7cd79a48041fb1c43c32753e3bdef544e9d92ef50f02443602e221",
+      "fchk_sha256": "b190b951ea8a073c863fdc664372f43c8d2d915f124a9ba541cc7351b147be02",
+      "relative_E_kcal_mol": 7.921633571812353
+    },
+    {
+      "direction": "reverse",
+      "point": 2,
+      "q_sqrt_amu_bohr": -0.305740672,
+      "energy_hartree": -156.431963669788,
+      "S2": 0.7736614858022648,
+      "S2_after": 0.7501251751111359,
+      "spin_sum": 1.0,
+      "charge_sum": -9.999999999992654e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.113676,
+          "spin": 0.519548
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.14823,
+          "spin": -0.200161
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.12002,
+          "spin": -0.002747
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.042917,
+          "spin": -0.018347
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042453,
+          "spin": -0.017472
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.020802,
+          "spin": 0.008787
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.020722,
+          "spin": 0.005355
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.019483,
+          "spin": 0.004087
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.032415,
+          "spin": 0.769137
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007412,
+          "spin": -0.034117
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020511,
+          "spin": -0.03407
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.8572547106802129,
+        "C1-C3": 1.4801411704575518,
+        "C2-C3": 1.4934208431741751,
+        "C2-C9": 1.4008536960974127
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.3021200351868174e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-002/calc.out",
+      "source_sha256": "51f344dd7523c55a3c22670145b07f5b9c84eed65a2409e9500110d532f4aaeb",
+      "fchk_sha256": "cb78172c3a09d0f141a8022b5a4ee321fcc4cc781d6f1d676224db7a14dc7c63",
+      "relative_E_kcal_mol": 8.451453463892562
+    },
+    {
+      "direction": "reverse",
+      "point": 1,
+      "q_sqrt_amu_bohr": -0.152895565,
+      "energy_hartree": -156.4314427534952,
+      "S2": 0.7766220349325597,
+      "S2_after": 0.7501438952257805,
+      "spin_sum": 0.9999990000000001,
+      "charge_sum": 1.3877787807814457e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.117931,
+          "spin": 0.579424
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.146477,
+          "spin": -0.207333
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.12503,
+          "spin": -0.008683
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.043301,
+          "spin": -0.021314
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042535,
+          "spin": -0.020889
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.020218,
+          "spin": 0.008909
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.020229,
+          "spin": 0.005696
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.019029,
+          "spin": 0.004704
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033229,
+          "spin": 0.723533
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007237,
+          "spin": -0.032006
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020058,
+          "spin": -0.032042
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.8869662778778964,
+        "C1-C3": 1.480918377953879,
+        "C2-C3": 1.4940609209697802,
+        "C2-C9": 1.3935047812239005
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 2.465048112298973e-07,
+      "source": "received/irc-spin-reverse-3815-20261018T201323Z/raw/jobs/irc-spin-reverse/point-001/calc.out",
+      "source_sha256": "51c259e1bb4db0574822abe459c9b200470e448d27a8dbadeafb458578c0fd11",
+      "fchk_sha256": "9f90aad16461471053f29a305480efdd9af0fa63bd7a11f06e73036fdb216985",
+      "relative_E_kcal_mol": 8.778333372818208
+    },
+    {
+      "direction": "forward",
+      "point": 0,
+      "q_sqrt_amu_bohr": 0.0,
+      "energy_hartree": -156.4312678961693,
+      "S2": 0.7788143085339954,
+      "S2_after": 0.7501593714047733,
+      "spin_sum": 1.000001,
+      "charge_sum": 1.5612511283791264e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.121226,
+          "spin": 0.638573
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.143897,
+          "spin": -0.210757
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.128616,
+          "spin": -0.014763
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.043456,
+          "spin": -0.024297
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042387,
+          "spin": -0.024304
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.019434,
+          "spin": 0.008939
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.019757,
+          "spin": 0.006034
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.018598,
+          "spin": 0.005314
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033995,
+          "spin": 0.674866
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007176,
+          "spin": -0.029747
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019694,
+          "spin": -0.029857
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.9166746084000668,
+        "C1-C3": 1.481889211295431,
+        "C2-C3": 1.4949109578894104,
+        "C2-C9": 1.3863138215678303
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.0383070048192167e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-000/calc.out",
+      "source_sha256": "bfd842f81db6393ecfc57bed14b1c71afbf4056c56c4911e65d5d3e07f18ccfa",
+      "fchk_sha256": "73cb6256bfd4d09becbfdbc119258ee6c966bece75289ff8a7c8b618b5c543bf",
+      "relative_E_kcal_mol": 8.888058001431157
+    },
+    {
+      "direction": "forward",
+      "point": 1,
+      "q_sqrt_amu_bohr": 0.152892965,
+      "energy_hartree": -156.4314374901211,
+      "S2": 0.7799449281095079,
+      "S2_after": 0.7501695108581691,
+      "spin_sum": 1.000001,
+      "charge_sum": 1.474514954580286e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.123568,
+          "spin": 0.695133
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.140669,
+          "spin": -0.209944
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.130906,
+          "spin": -0.020848
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.043392,
+          "spin": -0.027188
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042021,
+          "spin": -0.027601
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.018471,
+          "spin": 0.008861
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.019288,
+          "spin": 0.006362
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.018181,
+          "spin": 0.005899
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03469,
+          "spin": 0.62429
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007236,
+          "spin": -0.027396
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019432,
+          "spin": -0.027567
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.9463188666369124,
+        "C1-C3": 1.482985161887489,
+        "C2-C3": 1.4958797805304023,
+        "C2-C9": 1.3794433008625853
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.901211241303827e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-001/calc.out",
+      "source_sha256": "97e58d358aabfc5b39e68e6c3702e9e7a002299fd774524b242699d481328b58",
+      "fchk_sha256": "e8a395b0352e891337abd371f85ab86fc915cdd933676899c5fdd989f174ce87",
+      "relative_E_kcal_mol": 8.781636189917636
+    },
+    {
+      "direction": "forward",
+      "point": 2,
+      "q_sqrt_amu_bohr": 0.305729663,
+      "energy_hartree": -156.4319217371581,
+      "S2": 0.7799128116943912,
+      "S2_after": 0.7501730066504475,
+      "spin_sum": 1.000002,
+      "charge_sum": -1.734723475976807e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.125007,
+          "spin": 0.747693
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.136962,
+          "spin": -0.204904
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.132039,
+          "spin": -0.026791
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.04313,
+          "spin": -0.02989
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.041462,
+          "spin": -0.030673
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.017359,
+          "spin": 0.008674
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.018812,
+          "spin": 0.006675
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.01777,
+          "spin": 0.006445
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.035286,
+          "spin": 0.573012
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.00741,
+          "spin": -0.025011
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019273,
+          "spin": -0.025228
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.975841684819041,
+        "C1-C3": 1.4841675249381874,
+        "C2-C3": 1.4968978996263547,
+        "C2-C9": 1.3729726187535551
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 2.6284189402758784e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-002/calc.out",
+      "source_sha256": "9be2887970593ed9b1d43d40983e3bd0727e4095472c284b2808f8a917aeba2a",
+      "fchk_sha256": "ee07861766829d9d79ea977d10cd409f02480c45c892b00ec371ecf1f57bc9b8",
+      "relative_E_kcal_mol": 8.477766586426036
+    },
+    {
+      "direction": "forward",
+      "point": 3,
+      "q_sqrt_amu_bohr": 0.458574253,
+      "energy_hartree": -156.4326652450293,
+      "S2": 0.778821694970592,
+      "S2_after": 0.7501697099080873,
+      "spin_sum": 1.0,
+      "charge_sum": -9.999999999836529e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.125576,
+          "spin": 0.795316
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.132986,
+          "spin": -0.196111
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.132188,
+          "spin": -0.032448
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.042689,
+          "spin": -0.032325
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.04073,
+          "spin": -0.033442
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.016151,
+          "spin": 0.00839
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.018321,
+          "spin": 0.006966
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.017363,
+          "spin": 0.00694
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.035778,
+          "spin": 0.522264
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007684,
+          "spin": -0.022651
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019213,
+          "spin": -0.022899
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.0051874820515296,
+        "C1-C3": 1.4853608745090137,
+        "C2-C3": 1.497893114356936,
+        "C2-C9": 1.3669747126264473
+      },
+      "input_to_accepted_geometry_error_A": 5.291772089965896e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.450293266065273e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-003/calc.out",
+      "source_sha256": "49c0f445159686fa4f172e68e394babe19c829b1c15228590df6d5c0e0935bed",
+      "fchk_sha256": "6aeaa09737fedd943b16db96d9f9322d3946acc0186d38eec0d7d211edc7a09d",
+      "relative_E_kcal_mol": 8.01120835319464
+    },
+    {
+      "direction": "forward",
+      "point": 4,
+      "q_sqrt_amu_bohr": 0.611427133,
+      "energy_hartree": -156.4335976534808,
+      "S2": 0.7769534771999531,
+      "S2_after": 0.7501607451113741,
+      "spin_sum": 0.999999,
+      "charge_sum": 6.938893903907228e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.125346,
+          "spin": 0.837306
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.128989,
+          "spin": -0.184501
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.131644,
+          "spin": -0.037672
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.04209,
+          "spin": -0.034431
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.039845,
+          "spin": -0.035839
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.014894,
+          "spin": 0.008036
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.0178,
+          "spin": 0.007235
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.01695,
+          "spin": 0.007377
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036188,
+          "spin": 0.473517
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.008046,
+          "spin": -0.020383
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019254,
+          "spin": -0.020646
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.0341984611158517,
+        "C1-C3": 1.4864122205821888,
+        "C2-C3": 1.4986952607889652,
+        "C2-C9": 1.361698089590792
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.465191866780515e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-004/calc.out",
+      "source_sha256": "3608652cab1e30ec4ce4be85f6a04e3d3ba7fbdc66e25fa32e971fd8ea2a4955",
+      "fchk_sha256": "856986fa0c87190a7d6aeb3bde19201cce5d284564396eb2cacef5a1c6ae9b2b",
+      "relative_E_kcal_mol": 7.426113216188086
+    },
+    {
+      "direction": "forward",
+      "point": 5,
+      "q_sqrt_amu_bohr": 0.76427431,
+      "energy_hartree": -156.4346490710092,
+      "S2": 0.7745881793912055,
+      "S2_after": 0.7501475763645551,
+      "spin_sum": 1.0,
+      "charge_sum": 8.673617379884035e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.124391,
+          "spin": 0.873832
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.125029,
+          "spin": -0.170886
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.130395,
+          "spin": -0.042389
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.041366,
+          "spin": -0.036187
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.038846,
+          "spin": -0.03784
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.013637,
+          "spin": 0.007636
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.01727,
+          "spin": 0.007477
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.016548,
+          "spin": 0.007755
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036489,
+          "spin": 0.427339
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.008474,
+          "spin": -0.018236
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019373,
+          "spin": -0.018501
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.062912283781403,
+        "C1-C3": 1.4874414135190006,
+        "C2-C3": 1.4994295825185242,
+        "C2-C9": 1.3570035192359657
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -7.10091967448534e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-005/calc.out",
+      "source_sha256": "98f8376a34bc2985e5d9952504f86e17a998d31a3d482216e5949e04fbe8b673",
+      "fchk_sha256": "70f7a798b6e8b676d8afed7099addfe74cec6034bceeeae77fab206ec96f2b50",
+      "relative_E_kcal_mol": 6.766338755920109
+    },
+    {
+      "direction": "forward",
+      "point": 6,
+      "q_sqrt_amu_bohr": 0.917121792,
+      "energy_hartree": -156.4357605901145,
+      "S2": 0.7720171166158849,
+      "S2_after": 0.7501320424720309,
+      "spin_sum": 1.000002,
+      "charge_sum": -9.99999999988857e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.122778,
+          "spin": 0.905069
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.121247,
+          "spin": -0.156184
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.128556,
+          "spin": -0.046541
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.040542,
+          "spin": -0.037586
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.037757,
+          "spin": -0.039433
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.012438,
+          "spin": 0.007214
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.016739,
+          "spin": 0.007694
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.016164,
+          "spin": 0.008073
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036685,
+          "spin": 0.384435
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.008953,
+          "spin": -0.016242
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.01956,
+          "spin": -0.016497
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.0912524337394447,
+        "C1-C3": 1.488423869893561,
+        "C2-C3": 1.5000916810634377,
+        "C2-C9": 1.3529467811956355
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 4.0988550153997494e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-006/calc.out",
+      "source_sha256": "3a4ac7da9c4b8b2703614b4f1e047fba7595f931060318f1ee0ceb3627d170f1",
+      "fchk_sha256": "46b76d7fa0baf5df63f0989f698619505bca04cf884ccb62a256e08c0e2f7e1e",
+      "relative_E_kcal_mol": 6.06884998673724
+    },
+    {
+      "direction": "forward",
+      "point": 7,
+      "q_sqrt_amu_bohr": 1.06996533,
+      "energy_hartree": -156.4368862791968,
+      "S2": 0.7694764167105159,
+      "S2_after": 0.7501158568617005,
+      "spin_sum": 1.0,
+      "charge_sum": 0.0,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.120592,
+          "spin": 0.931362
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.117755,
+          "spin": -0.141232
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.126229,
+          "spin": -0.050104
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.039646,
+          "spin": -0.038641
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.036612,
+          "spin": -0.040631
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.011344,
+          "spin": 0.006793
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.016218,
+          "spin": 0.007891
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.015802,
+          "spin": 0.008336
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036769,
+          "spin": 0.345312
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.009463,
+          "spin": -0.014425
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019802,
+          "spin": -0.014661
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.1191268969592656,
+        "C1-C3": 1.4893536862994297,
+        "C2-C3": 1.5007147600969224,
+        "C2-C9": 1.3496142008247953
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.7919682565880066e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-007/calc.out",
+      "source_sha256": "a820bab1c3c75f3a248c963013b3efa729e94495f997bc583c576da843080f1c",
+      "fchk_sha256": "5f3b2600fb4bfc218afa8dce81a9f8e8a44d46677ba0299a7cd3b31742cc00fd",
+      "relative_E_kcal_mol": 5.362469422744219
+    },
+    {
+      "direction": "forward",
+      "point": 8,
+      "q_sqrt_amu_bohr": 1.22280239,
+      "energy_hartree": -156.4379909206614,
+      "S2": 0.7670826513577538,
+      "S2_after": 0.7501000691691866,
+      "spin_sum": 1.0,
+      "charge_sum": 1.0000000000148779e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.117981,
+          "spin": 0.953399
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.114531,
+          "spin": -0.12645
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.123438,
+          "spin": -0.053127
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.038719,
+          "spin": -0.039396
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035462,
+          "spin": -0.041478
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.010368,
+          "spin": 0.006381
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.01572,
+          "spin": 0.008074
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.015472,
+          "spin": 0.008555
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036719,
+          "spin": 0.309807
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.009979,
+          "spin": -0.012776
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020074,
+          "spin": -0.012989
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.146541313967479,
+        "C1-C3": 1.4903135984565816,
+        "C2-C3": 1.5014171187785252,
+        "C2-C9": 1.3468116067284897
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 7.933860501907475e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-008/calc.out",
+      "source_sha256": "a8c6abf7bba5ba7e4284ef2779bbd04127cdc9b820475571d130f583a365eda7",
+      "fchk_sha256": "07ca8577e4e0c3ef0a3cbe7fd3f5614ad476c3baf0bd448f22dfc3bdb67b822b",
+      "relative_E_kcal_mol": 4.669296438269038
+    },
+    {
+      "direction": "forward",
+      "point": 9,
+      "q_sqrt_amu_bohr": 1.37563282,
+      "energy_hartree": -156.4390480818787,
+      "S2": 0.7649225901250141,
+      "S2_after": 0.7500855205676786,
+      "spin_sum": 0.999999,
+      "charge_sum": 1.9999999999829182e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.115096,
+          "spin": 0.971725
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.111613,
+          "spin": -0.112259
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.120304,
+          "spin": -0.055669
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.037799,
+          "spin": -0.039903
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03435,
+          "spin": -0.042028
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.009528,
+          "spin": 0.005988
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.015252,
+          "spin": 0.008253
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.015173,
+          "spin": 0.008742
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03653,
+          "spin": 0.277927
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010476,
+          "spin": -0.011296
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020359,
+          "spin": -0.011481
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.173376319328907,
+        "C1-C3": 1.4912791997841626,
+        "C2-C3": 1.5022120528137004,
+        "C2-C9": 1.3445243010173187
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -8.187868161257938e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-009/calc.out",
+      "source_sha256": "4e778b96fe2249344b52efb20fa91b7472880d613d5984950722cecb30035ddd",
+      "fchk_sha256": "b88793bd950bc0958dfa3f974b5a13b55219dd4e1746cb5814876ef6f920cc84",
+      "relative_E_kcal_mol": 4.005917758807732
+    },
+    {
+      "direction": "forward",
+      "point": 10,
+      "q_sqrt_amu_bohr": 1.52844889,
+      "energy_hartree": -156.4400396120936,
+      "S2": 0.7630366236053074,
+      "S2_after": 0.7500726942803122,
+      "spin_sum": 1.000001,
+      "charge_sum": -1.214306433183765e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.112122,
+          "spin": 0.9869
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.10902,
+          "spin": -0.098949
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.116987,
+          "spin": -0.057816
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036926,
+          "spin": -0.040229
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.033329,
+          "spin": -0.042352
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.008828,
+          "spin": 0.005622
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.014807,
+          "spin": 0.00844
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.014897,
+          "spin": 0.008916
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.036198,
+          "spin": 0.249583
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010927,
+          "spin": -0.009979
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020639,
+          "spin": -0.010135
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.1994498343820608,
+        "C1-C3": 1.49219346436495,
+        "C2-C3": 1.5031019152565652,
+        "C2-C9": 1.3427450719158915
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.879063967815455e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-010/calc.out",
+      "source_sha256": "5fbbe366063f82aba37cb5954a38ddfb5adfde22b6437a716dfdd0067160615b",
+      "fchk_sha256": "7334fabe6e60cccce710a37c73a1438bf15a44ad7d4dfaa3ced545068451b46a",
+      "relative_E_kcal_mol": 3.383723155126767
+    },
+    {
+      "direction": "forward",
+      "point": 11,
+      "q_sqrt_amu_bohr": 1.68125599,
+      "energy_hartree": -156.4409552039406,
+      "S2": 0.7614141595502044,
+      "S2_after": 0.7500616517118048,
+      "spin_sum": 1.000001,
+      "charge_sum": -1.0000000000114084e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.109252,
+          "spin": 0.999555
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.106698,
+          "spin": -0.086564
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.113605,
+          "spin": -0.059676
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036145,
+          "spin": -0.040447
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03245,
+          "spin": -0.042529
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.008245,
+          "spin": 0.005283
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.014387,
+          "spin": 0.008643
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.014643,
+          "spin": 0.009093
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.035733,
+          "spin": 0.224383
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011314,
+          "spin": -0.008806
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020893,
+          "spin": -0.008934
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.224656069333122,
+        "C1-C3": 1.493064732253046,
+        "C2-C3": 1.5041102065085072,
+        "C2-C9": 1.3413106205603151
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.0394060129547142e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-011/calc.out",
+      "source_sha256": "ee756fb8ae835573f4deae4b64dcd0c144df426a52b57c652eb4e222c5988d8a",
+      "fchk_sha256": "94e0e58c8b04854a14ceaaefb66847591445ee895f804274682f3a61b24ae6d1",
+      "relative_E_kcal_mol": 2.809180596765558
+    },
+    {
+      "direction": "forward",
+      "point": 12,
+      "q_sqrt_amu_bohr": 1.8340542,
+      "energy_hartree": -156.4417912494454,
+      "S2": 0.7600439023369212,
+      "S2_after": 0.750052374203094,
+      "spin_sum": 1.0,
+      "charge_sum": 9.540979117872439e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.106663,
+          "spin": 1.010194
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.104626,
+          "spin": -0.075178
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.110312,
+          "spin": -0.061342
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035491,
+          "spin": -0.040623
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.031753,
+          "spin": -0.042635
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.007763,
+          "spin": 0.004973
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013988,
+          "spin": 0.008872
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.014404,
+          "spin": 0.00929
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.035154,
+          "spin": 0.202082
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.01162,
+          "spin": -0.007765
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021112,
+          "spin": -0.007868
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.248799174522688,
+        "C1-C3": 1.4938409475742587,
+        "C2-C3": 1.5052040233087123,
+        "C2-C9": 1.3401818953698748
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.494454065526952e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-012/calc.out",
+      "source_sha256": "ebdbfa74bb4a80009c2a999d8a40045824f88e5b3802c231fc2639ca779f6a4b",
+      "fchk_sha256": "90d0078168d337e83f6f5f2ac40ff7ebed680b35e16ae5ee19d14d53d0ffed8b",
+      "relative_E_kcal_mol": 2.2845541217570924
+    },
+    {
+      "direction": "forward",
+      "point": 13,
+      "q_sqrt_amu_bohr": 1.98685373,
+      "energy_hartree": -156.4425491724292,
+      "S2": 0.7589015016876797,
+      "S2_after": 0.7500446998239364,
+      "spin_sum": 1.000001,
+      "charge_sum": -1.214306433183765e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.104482,
+          "spin": 1.019259
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.102772,
+          "spin": -0.064784
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.107248,
+          "spin": -0.062895
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034985,
+          "spin": -0.040812
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.031256,
+          "spin": -0.04273
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.007355,
+          "spin": 0.004695
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013602,
+          "spin": 0.00913
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.014174,
+          "spin": 0.009522
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.034484,
+          "spin": 0.182381
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011836,
+          "spin": -0.006842
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021282,
+          "spin": -0.006923
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.271717718661719,
+        "C1-C3": 1.4944633416957764,
+        "C2-C3": 1.5063404681056998,
+        "C2-C9": 1.3393166168829944
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -1.7242919625459763e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-013/calc.out",
+      "source_sha256": "8b0380fe5ad8a79304d623697587e41fe62f866c796f70483a62251c4d4b79cc",
+      "fchk_sha256": "f00adf861dad36d9be2e1b3c039547d82c56f6266e2306122c42146bf8a88c95",
+      "relative_E_kcal_mol": 1.8089502688070147
+    },
+    {
+      "direction": "forward",
+      "point": 14,
+      "q_sqrt_amu_bohr": 2.1396646,
+      "energy_hartree": -156.44323283982,
+      "S2": 0.7579517156757163,
+      "S2_after": 0.7500383639929272,
+      "spin_sum": 0.9999990000000001,
+      "charge_sum": -1.000000000007939e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.102747,
+          "spin": 1.027141
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.101083,
+          "spin": -0.055277
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.104452,
+          "spin": -0.064389
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034626,
+          "spin": -0.041043
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030953,
+          "spin": -0.042854
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.006999,
+          "spin": 0.004444
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013231,
+          "spin": 0.009413
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.013953,
+          "spin": 0.009794
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033767,
+          "spin": 0.164868
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011974,
+          "spin": -0.006019
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021408,
+          "spin": -0.006079
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.293420506043114,
+        "C1-C3": 1.4949694965791835,
+        "C2-C3": 1.507500774221587,
+        "C2-C9": 1.338614638457976
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.6017997950257268e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-014/calc.out",
+      "source_sha256": "c76414c47c7ea0723d2d2b71124808388afd40d3b06fcaf358ba06df2f83f764",
+      "fchk_sha256": "0192f8654875ea23eca8fc794ec5dee7a2ce78065f572c367225b5d33a15e117",
+      "relative_E_kcal_mol": 1.379942503970376
+    },
+    {
+      "direction": "forward",
+      "point": 15,
+      "q_sqrt_amu_bohr": 2.29248638,
+      "energy_hartree": -156.4438465992542,
+      "S2": 0.7571656238898932,
+      "S2_after": 0.7500331397023747,
+      "spin_sum": 1.000001,
+      "charge_sum": -4.336808689942018e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.101448,
+          "spin": 1.034104
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.099522,
+          "spin": -0.046578
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.101958,
+          "spin": -0.065851
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034402,
+          "spin": -0.041326
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030822,
+          "spin": -0.043023
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.006674,
+          "spin": 0.00422
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012875,
+          "spin": 0.009714
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.01374,
+          "spin": 0.010112
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033042,
+          "spin": 0.149233
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012046,
+          "spin": -0.005281
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021495,
+          "spin": -0.005323
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.3139242772393733,
+        "C1-C3": 1.495356344672083,
+        "C2-C3": 1.5086482840075552,
+        "C2-C9": 1.3380464238858443
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 4.007458187516022e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-015/calc.out",
+      "source_sha256": "9de5e3d2003e7d7aef3a26a5226334718dc3541de16e431906de6dbe6fbeceec",
+      "fchk_sha256": "5850876f811e10504fd578b4970a0fc0bb5063dbd32e5b59204f164ee4bb9528",
+      "relative_E_kcal_mol": 0.9948026442307442
+    },
+    {
+      "direction": "forward",
+      "point": 16,
+      "q_sqrt_amu_bohr": 2.44531781,
+      "energy_hartree": -156.4443944236397,
+      "S2": 0.7565157986853421,
+      "S2_after": 0.7500288159878632,
+      "spin_sum": 0.9999990000000001,
+      "charge_sum": 6.071532165918825e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.100521,
+          "spin": 1.040337
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.098061,
+          "spin": -0.038592
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.099761,
+          "spin": -0.06729
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034286,
+          "spin": -0.041658
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030829,
+          "spin": -0.043241
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.006365,
+          "spin": 0.004017
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012534,
+          "spin": 0.010024
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.013529,
+          "spin": 0.010475
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03233,
+          "spin": 0.135183
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012064,
+          "spin": -0.004616
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021544,
+          "spin": -0.00464
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.3333084101603556,
+        "C1-C3": 1.4956184470686067,
+        "C2-C3": 1.5097572472875003,
+        "C2-C9": 1.3375887920141063
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.2363970464975864e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-016/calc.out",
+      "source_sha256": "dcf340c054ad4d1b55f1a128200d22901c38dae044525655c114aa27a7c7c48c",
+      "fchk_sha256": "c7ea0b2920ac7ba2ee5dc74fe50324ba88991c15a9d2be3908b27f48a9e72514",
+      "relative_E_kcal_mol": 0.6510376522025559
+    },
+    {
+      "direction": "forward",
+      "point": 17,
+      "q_sqrt_amu_bohr": 2.59815112,
+      "energy_hartree": -156.4448797100786,
+      "S2": 0.7559781143942423,
+      "S2_after": 0.7500252156814523,
+      "spin_sum": 0.9999999999999999,
+      "charge_sum": 2.000000000002e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.099891,
+          "spin": 1.045977
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.096675,
+          "spin": -0.031226
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.097813,
+          "spin": -0.068701
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034255,
+          "spin": -0.042025
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030943,
+          "spin": -0.043497
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.006069,
+          "spin": 0.003833
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012214,
+          "spin": 0.010332
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.013322,
+          "spin": 0.010882
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.031668,
+          "spin": 0.122457
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.01205,
+          "spin": -0.004014
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02157,
+          "spin": -0.004018
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.351737400660663,
+        "C1-C3": 1.4958338905302033,
+        "C2-C3": 1.5108313438605157,
+        "C2-C9": 1.3372032860541747
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 2.8992141665185045e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-017/calc.out",
+      "source_sha256": "e5b25a2f71ff88477e848a8965142f584a459062e12676b5418aa7f2487c6915",
+      "fchk_sha256": "526c1db0b0907b9e675dbd7b0c2cdf5a69efd2f10825f290282a3cb4b91b8c33",
+      "relative_E_kcal_mol": 0.34651581415706817
+    },
+    {
+      "direction": "forward",
+      "point": 18,
+      "q_sqrt_amu_bohr": 2.75097837,
+      "energy_hartree": -156.4453056070467,
+      "S2": 0.7555351646140771,
+      "S2_after": 0.7500222166819428,
+      "spin_sum": 0.999999,
+      "charge_sum": -6.938893903907228e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.099494,
+          "spin": 1.051097
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.095348,
+          "spin": -0.024431
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.09609,
+          "spin": -0.070075
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034286,
+          "spin": -0.042414
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.031136,
+          "spin": -0.043782
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.005778,
+          "spin": 0.003664
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.01192,
+          "spin": 0.010626
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.013113,
+          "spin": 0.011332
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.031076,
+          "spin": 0.110901
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012016,
+          "spin": -0.003469
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021579,
+          "spin": -0.00345
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.369264832404331,
+        "C1-C3": 1.496014754828988,
+        "C2-C3": 1.511859032777085,
+        "C2-C9": 1.3368822063142558
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.929532965685212e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-018/calc.out",
+      "source_sha256": "0454189d8f659fd8ee2f9834a11ec11d688182ced80c2de829fc228229202967",
+      "fchk_sha256": "e3ea7a8ae5b703709a40d3120f4fcfb4de25eb1ae460e17e24cf7cb971b338e9",
+      "relative_E_kcal_mol": 0.0792614317019905
+    },
+    {
+      "direction": "forward",
+      "point": 19,
+      "q_sqrt_amu_bohr": 2.90379154,
+      "energy_hartree": -156.4456754064769,
+      "S2": 0.7551729486862335,
+      "S2_after": 0.750019726953818,
+      "spin_sum": 0.9999979999999999,
+      "charge_sum": -2.000000000001133e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.09927,
+          "spin": 1.055734
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.094071,
+          "spin": -0.018179
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.094579,
+          "spin": -0.071402
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.03436,
+          "spin": -0.042812
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.031386,
+          "spin": -0.044085
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.005491,
+          "spin": 0.003509
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011655,
+          "spin": 0.010898
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.012892,
+          "spin": 0.011824
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030567,
+          "spin": 0.100417
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011971,
+          "spin": -0.002977
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021572,
+          "spin": -0.002929
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.385873320325644,
+        "C1-C3": 1.4961447489258881,
+        "C2-C3": 1.512828872867901,
+        "C2-C9": 1.3366197220787863
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.06476914349696e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-019/calc.out",
+      "source_sha256": "fe7d87b0db68ae2a0c9ab6469c9235c1b033e1784de0da9838c50162f97ca2e6",
+      "fchk_sha256": "96510550ebc7970592b389848a4ec092db90a3fc49828ec56d20c293bf49493b",
+      "relative_E_kcal_mol": -0.15279121426243822
+    },
+    {
+      "direction": "forward",
+      "point": 20,
+      "q_sqrt_amu_bohr": 3.05657465,
+      "energy_hartree": -156.4459929026794,
+      "S2": 0.7548801653310004,
+      "S2_after": 0.7500176770432435,
+      "spin_sum": 1.000001,
+      "charge_sum": -9.999999999992654e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.099191,
+          "spin": 1.059912
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.092848,
+          "spin": -0.012473
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.093266,
+          "spin": -0.072663
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034464,
+          "spin": -0.043203
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03168,
+          "spin": -0.044394
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.005211,
+          "spin": 0.003367
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011433,
+          "spin": 0.011134
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.012656,
+          "spin": 0.012355
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030158,
+          "spin": 0.090956
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011927,
+          "spin": -0.002537
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021559,
+          "spin": -0.002453
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4015388976847087,
+        "C1-C3": 1.496292695050873,
+        "C2-C3": 1.5137372565142377,
+        "C2-C9": 1.3364048637769539
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 9.732059425004991e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-020/calc.out",
+      "source_sha256": "54dd2fec0fe5619b3c0502c0e52086461996920f073beec40470f891a57662aa",
+      "fchk_sha256": "0f23acd32e6523ea580044a62f8bb7be0bcfa437c7f6d4085ab3ba604f3c41ae",
+      "relative_E_kcal_mol": -0.352023089300415
+    },
+    {
+      "direction": "forward",
+      "point": 21,
+      "q_sqrt_amu_bohr": 3.20930955,
+      "energy_hartree": -156.446262838352,
+      "S2": 0.7546485242984975,
+      "S2_after": 0.7500160204955519,
+      "spin_sum": 1.0,
+      "charge_sum": 1.0408340855860843e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.09924,
+          "spin": 1.063628
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.091677,
+          "spin": -0.007353
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.092164,
+          "spin": -0.073843
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034588,
+          "spin": -0.043581
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.032008,
+          "spin": -0.044702
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.004938,
+          "spin": 0.003236
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011264,
+          "spin": 0.011321
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.012394,
+          "spin": 0.012925
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029865,
+          "spin": 0.082547
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011888,
+          "spin": -0.002153
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021538,
+          "spin": -0.002025
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4160339042628713,
+        "C1-C3": 1.4964423630137371,
+        "C2-C3": 1.5145547777448938,
+        "C2-C9": 1.336236470320797
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 1.6164798921636248e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-021/calc.out",
+      "source_sha256": "b245bf75d40c9c1637b9be8db4b55ba418fc3d4de7da58aee9180f172986d10b",
+      "fchk_sha256": "ccdd03428ff56b4656db428eafcc242bbcbdf5155a608749cb3f1908e61003ff",
+      "relative_E_kcal_mol": -0.5214102812479428
+    },
+    {
+      "direction": "forward",
+      "point": 22,
+      "q_sqrt_amu_bohr": 3.36198108,
+      "energy_hartree": -156.446491284995,
+      "S2": 0.7544702392262028,
+      "S2_after": 0.7500147152025493,
+      "spin_sum": 0.9999989999999999,
+      "charge_sum": -1.734723475976807e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.099403,
+          "spin": 1.066852
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.090569,
+          "spin": -0.002874
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.091304,
+          "spin": -0.074924
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034722,
+          "spin": -0.043931
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.032356,
+          "spin": -0.044999
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.004673,
+          "spin": 0.003119
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011156,
+          "spin": 0.011446
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.012091,
+          "spin": 0.013533
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029696,
+          "spin": 0.075251
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011858,
+          "spin": -0.001828
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021508,
+          "spin": -0.001646
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4290266320171017,
+        "C1-C3": 1.4965532708624523,
+        "C2-C3": 1.5152465206255,
+        "C2-C9": 1.3361032689434313
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.8499499649115023e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-022/calc.out",
+      "source_sha256": "cec989038ad90fe7d9decadf3fca1dac695dbdb5b43139061f51c79ef735f42d",
+      "fchk_sha256": "56463bb0567f917271b19793da7e3cd19647b24f1b86a296114f57a81f839f17",
+      "relative_E_kcal_mol": -0.664762714052695
+    },
+    {
+      "direction": "forward",
+      "point": 23,
+      "q_sqrt_amu_bohr": 3.51459218,
+      "energy_hartree": -156.4466856869911,
+      "S2": 0.7543378437820998,
+      "S2_after": 0.750013721556027,
+      "spin_sum": 0.9999999999999999,
+      "charge_sum": 1.734723475976807e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.099676,
+          "spin": 1.069559
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.089546,
+          "spin": 0.000892
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.090698,
+          "spin": -0.075874
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034858,
+          "spin": -0.044238
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.032715,
+          "spin": -0.045268
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.004421,
+          "spin": 0.003016
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011131,
+          "spin": 0.011493
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.011745,
+          "spin": 0.01416
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029663,
+          "spin": 0.069147
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011844,
+          "spin": -0.001566
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021473,
+          "spin": -0.001321
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.440208643744656,
+        "C1-C3": 1.4966783947400113,
+        "C2-C3": 1.5157839587978996,
+        "C2-C9": 1.3360079692660665
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.130089112346468e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-023/calc.out",
+      "source_sha256": "e8fd7bac7881932ca682985a43baf690d077eb761fcc8391a1b4eb692d10096b",
+      "fchk_sha256": "0c3c04f19cedb20a14108751c9d72a3c47a19b34717d5bd1aa6f7ae0fbfb958f",
+      "relative_E_kcal_mol": -0.7867518083716278
+    },
+    {
+      "direction": "forward",
+      "point": 24,
+      "q_sqrt_amu_bohr": 3.66718992,
+      "energy_hartree": -156.4468541678688,
+      "S2": 0.7542439375995862,
+      "S2_after": 0.7500129975335527,
+      "spin_sum": 1.000001,
+      "charge_sum": -8.673617379884035e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.100068,
+          "spin": 1.071756
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.08862,
+          "spin": 0.003908
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.090365,
+          "spin": -0.076687
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.034995,
+          "spin": -0.044497
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.033082,
+          "spin": -0.045509
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.004182,
+          "spin": 0.002931
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.01119,
+          "spin": 0.011451
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.011358,
+          "spin": 0.014802
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029759,
+          "spin": 0.064269
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011846,
+          "spin": -0.001369
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021429,
+          "spin": -0.001054
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.449233187553603,
+        "C1-C3": 1.496780150552308,
+        "C2-C3": 1.5161338505282185,
+        "C2-C9": 1.3359459324225582
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -1.6786879086794215e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-024/calc.out",
+      "source_sha256": "1e20bca8261b680b00a5ca54a8e52c01a4fd4972ee0b4443ede8f7532937ed42",
+      "fchk_sha256": "89a81d5ee47e6fcdcaf2af6316655c17e54381f83762afa2559954f5d7657a43",
+      "relative_E_kcal_mol": -0.8924751553295232
+    },
+    {
+      "direction": "forward",
+      "point": 25,
+      "q_sqrt_amu_bohr": 3.81985501,
+      "energy_hartree": -156.4470040060502,
+      "S2": 0.754178736820446,
+      "S2_after": 0.7500124814375441,
+      "spin_sum": 0.9999999999999999,
+      "charge_sum": 1.999999999987255e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.100564,
+          "spin": 1.073478
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.087803,
+          "spin": 0.006243
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.090303,
+          "spin": -0.077364
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035123,
+          "spin": -0.044706
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.033441,
+          "spin": -0.045714
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.003954,
+          "spin": 0.002863
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011324,
+          "spin": 0.011315
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.010946,
+          "spin": 0.015458
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029961,
+          "spin": 0.060497
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011861,
+          "spin": -0.001229
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021378,
+          "spin": -0.000841
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4561011445503063,
+        "C1-C3": 1.496823959272557,
+        "C2-C3": 1.516295117149713,
+        "C2-C9": 1.335889986723731
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -6.050214551578392e-09,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-025/calc.out",
+      "source_sha256": "43e047124fddc671eb8a241884d4e23cadea2b03830eff7ae0bd216e53ec34b0",
+      "fchk_sha256": "62a27fe7a39e9d283e8f6418f5190b8a870b2ace1dd631ab65877efeeef1efc1",
+      "relative_E_kcal_mol": -0.9865000337434774
+    },
+    {
+      "direction": "forward",
+      "point": 26,
+      "q_sqrt_amu_bohr": 3.97260251,
+      "energy_hartree": -156.447140237083,
+      "S2": 0.7541331877117585,
+      "S2_after": 0.7500121119926021,
+      "spin_sum": 0.999999,
+      "charge_sum": 9.999999999975306e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.101145,
+          "spin": 1.074824
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.087092,
+          "spin": 0.008032
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.090447,
+          "spin": -0.077922
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035243,
+          "spin": -0.044866
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.033785,
+          "spin": -0.045884
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.003738,
+          "spin": 0.00281
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011527,
+          "spin": 0.011104
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.010525,
+          "spin": 0.016106
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030244,
+          "spin": 0.057603
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011892,
+          "spin": -0.001134
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021325,
+          "spin": -0.000674
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4611840447732343,
+        "C1-C3": 1.4968577370392164,
+        "C2-C3": 1.5163121487401914,
+        "C2-C9": 1.3358557294403723
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -2.3708301455371839e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-026/calc.out",
+      "source_sha256": "05650cd44ea749980de529953b30bccabc8ba9c26edea05660b8dd1642b8de93",
+      "fchk_sha256": "4eadbb2089c05d3a0e16e477d43fd77405c2c6bfe10977286c30a7b578b76922",
+      "relative_E_kcal_mol": -1.0719862974854324
+    },
+    {
+      "direction": "forward",
+      "point": 27,
+      "q_sqrt_amu_bohr": 4.12540705,
+      "energy_hartree": -156.4472655546501,
+      "S2": 0.754100421199233,
+      "S2_after": 0.7500118386058725,
+      "spin_sum": 0.999999,
+      "charge_sum": -9.999999999979643e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.101811,
+          "spin": 1.075926
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.086466,
+          "spin": 0.009439
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.090745,
+          "spin": -0.078403
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035364,
+          "spin": -0.044999
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.034119,
+          "spin": -0.046033
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.003532,
+          "spin": 0.002772
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.011775,
+          "spin": 0.010828
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.010117,
+          "spin": 0.016767
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030579,
+          "spin": 0.055314
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011935,
+          "spin": -0.001071
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021268,
+          "spin": -0.000541
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4649051421914154,
+        "C1-C3": 1.4968622512732814,
+        "C2-C3": 1.516221711097345,
+        "C2-C9": 1.3358317833091689
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 4.4534991161526705e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-027/calc.out",
+      "source_sha256": "4c346d4202460739f8f0848811ac77a386f5fd8d079a48e3a122a21e411e971c",
+      "fchk_sha256": "2752cce8e21dd08178d22a2945514597002e144792acbfc611deb2186767bbde",
+      "relative_E_kcal_mol": -1.150624258105195
+    },
+    {
+      "direction": "forward",
+      "point": 28,
+      "q_sqrt_amu_bohr": 4.27825889,
+      "energy_hartree": -156.4473810424128,
+      "S2": 0.7540743559917953,
+      "S2_after": 0.7500116168470378,
+      "spin_sum": 1.0,
+      "charge_sum": 9.999999999897244e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.102539,
+          "spin": 1.076875
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.085908,
+          "spin": 0.010632
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.091163,
+          "spin": -0.078836
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.03548,
+          "spin": -0.04511
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.034434,
+          "spin": -0.046168
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.003326,
+          "spin": 0.002745
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012048,
+          "spin": 0.010492
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.009737,
+          "spin": 0.017462
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.030934,
+          "spin": 0.053363
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.011982,
+          "spin": -0.001024
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021212,
+          "spin": -0.000431
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4677873344448926,
+        "C1-C3": 1.4968264237029152,
+        "C2-C3": 1.516061491335066,
+        "C2-C9": 1.3357958750504446
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.24127790665807e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-028/calc.out",
+      "source_sha256": "dc14d563e12eb1d3ee6ac085ad892fabdac25617c052c7126569f2fdf140017f",
+      "fchk_sha256": "c63af739f31931f83c0d59ab15bcb19bd40460ee6c61e0437d3161adf7ba88c0",
+      "relative_E_kcal_mol": -1.2230939233281024
+    },
+    {
+      "direction": "forward",
+      "point": 29,
+      "q_sqrt_amu_bohr": 4.4311198,
+      "energy_hartree": -156.4474869169855,
+      "S2": 0.7540518237138816,
+      "S2_after": 0.7500114225691488,
+      "spin_sum": 0.9999999999999999,
+      "charge_sum": -9.999999999962296e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.10331,
+          "spin": 1.077743
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.0854,
+          "spin": 0.011713
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.09163,
+          "spin": -0.079238
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035596,
+          "spin": -0.045208
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.034729,
+          "spin": -0.04629
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.003126,
+          "spin": 0.002727
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012345,
+          "spin": 0.010122
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.009387,
+          "spin": 0.018173
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.031302,
+          "spin": 0.05158
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012038,
+          "spin": -0.000985
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02116,
+          "spin": -0.000337
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4702381164123306,
+        "C1-C3": 1.4967927346794045,
+        "C2-C3": 1.5158797548416791,
+        "C2-C9": 1.3357719496539984
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 8.301449838654662e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-029/calc.out",
+      "source_sha256": "b0db78b0c7dcbbb3700d66fe2b8b553611fcfcbd1015a0d54ebcacc252700920",
+      "fchk_sha256": "0469804f5be2af697618eb4370a0afacce2bd4a8df80b0acd99ffc1ec572dc68",
+      "relative_E_kcal_mol": -1.2895312207664604
+    },
+    {
+      "direction": "forward",
+      "point": 30,
+      "q_sqrt_amu_bohr": 4.58397469,
+      "energy_hartree": -156.4475831037066,
+      "S2": 0.7540315614884499,
+      "S2_after": 0.7500112438827468,
+      "spin_sum": 1.0000000000000002,
+      "charge_sum": 0.0,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.104123,
+          "spin": 1.078596
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.084925,
+          "spin": 0.012745
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.09212,
+          "spin": -0.079636
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035719,
+          "spin": -0.045305
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035009,
+          "spin": -0.046415
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002933,
+          "spin": 0.002718
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012649,
+          "spin": 0.009713
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.00908,
+          "spin": 0.018934
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.031673,
+          "spin": 0.049852
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012101,
+          "spin": -0.000949
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.02111,
+          "spin": -0.000253
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4724612593422255,
+        "C1-C3": 1.496748988218506,
+        "C2-C3": 1.5156888592877111,
+        "C2-C9": 1.3357495132159425
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -1.0370658287683909e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-030/calc.out",
+      "source_sha256": "f768843faef3f429f8e1ebe8ac938564ecd5cb5840d61d3a337999774e431a67",
+      "fchk_sha256": "c6cd667f66e222a25d4a030551a681d09dad3c1033efc5c0519162ed83e1351b",
+      "relative_E_kcal_mol": -1.3498892995324385
+    },
+    {
+      "direction": "forward",
+      "point": 31,
+      "q_sqrt_amu_bohr": 4.7368451,
+      "energy_hartree": -156.4476694983325,
+      "S2": 0.7540120239397545,
+      "S2_after": 0.7500110697366957,
+      "spin_sum": 1.0000010000000001,
+      "charge_sum": -7.37257477290143e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.104959,
+          "spin": 1.079447
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.084479,
+          "spin": 0.013777
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.092621,
+          "spin": -0.080035
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.03584,
+          "spin": -0.0454
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035267,
+          "spin": -0.046541
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002741,
+          "spin": 0.002718
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.012952,
+          "spin": 0.009258
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008821,
+          "spin": 0.019772
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03203,
+          "spin": 0.048094
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012162,
+          "spin": -0.000911
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021064,
+          "spin": -0.000178
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4746736796946873,
+        "C1-C3": 1.4966853296964535,
+        "C2-C3": 1.5154983471051064,
+        "C2-C9": 1.3357168825491106
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.983324970453396e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-031/calc.out",
+      "source_sha256": "88becf8b00fd5ee02dcfd015701dcfcdda2a2be4a0243bff06e5f7f3db564588",
+      "fchk_sha256": "44abc0580bf9e50c88f4ee8d159f3acb51eba692ad1267cddfff00478df32ade",
+      "relative_E_kcal_mol": -1.4041027457903101
+    },
+    {
+      "direction": "forward",
+      "point": 32,
+      "q_sqrt_amu_bohr": 4.8897107,
+      "energy_hartree": -156.4477460177984,
+      "S2": 0.753992981763087,
+      "S2_after": 0.7500108983969284,
+      "spin_sum": 1.000002,
+      "charge_sum": 9.99999999990158e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.105799,
+          "spin": 1.080305
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.084056,
+          "spin": 0.01482
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.093096,
+          "spin": -0.080433
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.035961,
+          "spin": -0.045495
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035498,
+          "spin": -0.046666
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002557,
+          "spin": 0.002725
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013262,
+          "spin": 0.008781
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008607,
+          "spin": 0.020657
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.032378,
+          "spin": 0.046286
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012228,
+          "spin": -0.00087
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.021025,
+          "spin": -0.000108
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.476986504378367,
+        "C1-C3": 1.4966321243026937,
+        "C2-C3": 1.5153280095305808,
+        "C2-C9": 1.335694707653333
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -1.779841340976418e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-032/calc.out",
+      "source_sha256": "65b8ac55570f33478bc4674180cd94815911033a5a0f3fadef3ff85a04740f11",
+      "fchk_sha256": "f2a3bdace7999ac723b980726230ace2da1413f54bc90a7c349ccd7a02b1e298",
+      "relative_E_kcal_mol": -1.4521194356059297
+    },
+    {
+      "direction": "forward",
+      "point": 33,
+      "q_sqrt_amu_bohr": 5.0425446,
+      "energy_hartree": -156.4478126979474,
+      "S2": 0.7539755047748979,
+      "S2_after": 0.7500107348884039,
+      "spin_sum": 1.0,
+      "charge_sum": 9.999999999879897e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.106656,
+          "spin": 1.081201
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.083652,
+          "spin": 0.015855
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.093537,
+          "spin": -0.080849
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036092,
+          "spin": -0.045601
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035715,
+          "spin": -0.046807
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002384,
+          "spin": 0.002741
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013559,
+          "spin": 0.008257
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008452,
+          "spin": 0.021652
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.032711,
+          "spin": 0.044426
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012293,
+          "spin": -0.000827
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020988,
+          "spin": -4.8e-05
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4793520865670575,
+        "C1-C3": 1.496573208895782,
+        "C2-C3": 1.515166523867653,
+        "C2-C9": 1.3356715316879397
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 3.0205259804461093e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-033/calc.out",
+      "source_sha256": "36aa72f4d79b50d5b3cdf814e0ac47657cfbdf9cde0e4967cde052ffa7f1069b",
+      "fchk_sha256": "8c9d069003df8130aa977ca9ec1c9a67dfdb2766048c3d3095f5f1c01aed6ef3",
+      "relative_E_kcal_mol": -1.493961860829042
+    },
+    {
+      "direction": "forward",
+      "point": 34,
+      "q_sqrt_amu_bohr": 5.19540953,
+      "energy_hartree": -156.4478697320151,
+      "S2": 0.7539591307257432,
+      "S2_after": 0.7500105775741063,
+      "spin_sum": 0.9999989999999999,
+      "charge_sum": -1.000000000006638e-06,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.107503,
+          "spin": 1.08211
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.083279,
+          "spin": 0.016872
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.093943,
+          "spin": -0.081277
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036215,
+          "spin": -0.045711
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.035908,
+          "spin": -0.046956
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002219,
+          "spin": 0.002769
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.013837,
+          "spin": 0.007663
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008371,
+          "spin": 0.022804
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033023,
+          "spin": 0.042503
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012355,
+          "spin": -0.000781
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020956,
+          "spin": 3e-06
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4818565002189383,
+        "C1-C3": 1.4965036445928392,
+        "C2-C3": 1.515012583085277,
+        "C2-C9": 1.3356444627708066
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 2.6798488761414774e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-034/calc.out",
+      "source_sha256": "963af6068db8e5d4688095a6714202b5d8eca42504a9903e6b5a46f36adef330",
+      "fchk_sha256": "52f6ff9348220a836fec011cf8137df38f969cc21683c26b31bcecdd191da861",
+      "relative_E_kcal_mol": -1.5297512786605623
+    },
+    {
+      "direction": "forward",
+      "point": 35,
+      "q_sqrt_amu_bohr": 5.34826872,
+      "energy_hartree": -156.447917349812,
+      "S2": 0.7539439311974387,
+      "S2_after": 0.7500104282695339,
+      "spin_sum": 1.0,
+      "charge_sum": 1.0408340855860843e-17,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.108317,
+          "spin": 1.083013
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.082941,
+          "spin": 0.017852
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.094297,
+          "spin": -0.081702
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036332,
+          "spin": -0.045821
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.036062,
+          "spin": -0.047106
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002071,
+          "spin": 0.002806
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.014115,
+          "spin": 0.007042
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008349,
+          "spin": 0.024054
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033319,
+          "spin": 0.040551
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.01242,
+          "spin": -0.000733
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020931,
+          "spin": 4.4e-05
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4844657615797763,
+        "C1-C3": 1.4964441820776295,
+        "C2-C3": 1.5148710542426154,
+        "C2-C9": 1.335630005479815
+      },
+      "input_to_accepted_geometry_error_A": 5.291772575688469e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -3.4981201224582037e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-035/calc.out",
+      "source_sha256": "8bef5a95f489b95b728a9f79fd45fb68fd1f93e41adee886c2149dcf4c9698f5",
+      "fchk_sha256": "acd63e6e947e5921d6be06105ca7d775873c741216254d4080793bad6cb92e82",
+      "relative_E_kcal_mol": -1.5596318973461138
+    },
+    {
+      "direction": "forward",
+      "point": 36,
+      "q_sqrt_amu_bohr": 5.50086468,
+      "energy_hartree": -156.4479560454649,
+      "S2": 0.7539320210336147,
+      "S2_after": 0.7500102970074566,
+      "spin_sum": 1.0000010000000001,
+      "charge_sum": -9.99999999995579e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.10913,
+          "spin": 1.08396
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.082637,
+          "spin": 0.018733
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.094603,
+          "spin": -0.082159
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036455,
+          "spin": -0.045954
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.036204,
+          "spin": -0.047288
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.001939,
+          "spin": 0.002858
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.014349,
+          "spin": 0.006344
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008423,
+          "spin": 0.025547
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033586,
+          "spin": 0.038576
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012474,
+          "spin": -0.000684
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020905,
+          "spin": 6.8e-05
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4870256718261947,
+        "C1-C3": 1.496368929255526,
+        "C2-C3": 1.5147121107706183,
+        "C2-C9": 1.3356103539177862
+      },
+      "input_to_accepted_geometry_error_A": 5.291772298132713e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -4.546490117718349e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-036/calc.out",
+      "source_sha256": "e684454b83eec5786e53175eff743139cf2c6a576bc3117b4962223caa336dd2",
+      "fchk_sha256": "42a72567902028fc964c2a0f3acfdb507c943ae45d2b962b85f74d9cf7c13fff",
+      "relative_E_kcal_mol": -1.583913786148527
+    },
+    {
+      "direction": "forward",
+      "point": 37,
+      "q_sqrt_amu_bohr": 5.65369837,
+      "energy_hartree": -156.4479870562442,
+      "S2": 0.7539235031028255,
+      "S2_after": 0.7500101875682487,
+      "spin_sum": 0.999998,
+      "charge_sum": -9.324138683375338e-18,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.109894,
+          "spin": 1.084896
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.082416,
+          "spin": 0.019416
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.094835,
+          "spin": -0.082646
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036565,
+          "spin": -0.046102
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.03633,
+          "spin": -0.047497
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.001834,
+          "spin": 0.002935
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.014504,
+          "spin": 0.005486
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008655,
+          "spin": 0.027498
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03382,
+          "spin": 0.036583
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012524,
+          "spin": -0.000636
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020883,
+          "spin": 6.5e-05
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.489606550500852,
+        "C1-C3": 1.4962879984629194,
+        "C2-C3": 1.514526502515443,
+        "C2-C9": 1.3355891795669488
+      },
+      "input_to_accepted_geometry_error_A": 5.291772159354835e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": -5.624417553917738e-08,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-037/calc.out",
+      "source_sha256": "e35dd1b8f41672fb72ad4d607ce44ef56e8acec2c8b1bd4919f019f73c18e56e",
+      "fchk_sha256": "a08093da93ac3d954588514925a3643d5a93398bacc5cfb6305627ce0326fa63",
+      "relative_E_kcal_mol": -1.60337334394566
+    },
+    {
+      "direction": "forward",
+      "point": 38,
+      "q_sqrt_amu_bohr": 5.80648021,
+      "energy_hartree": -156.4480113945037,
+      "S2": 0.7539157917013952,
+      "S2_after": 0.7500100877340855,
+      "spin_sum": 1.0,
+      "charge_sum": -9.999999999968801e-07,
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.11055,
+          "spin": 1.085757
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.08228,
+          "spin": 0.019953
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.095027,
+          "spin": -0.083108
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.036652,
+          "spin": -0.046238
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.036365,
+          "spin": -0.04769
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.00176,
+          "spin": 0.003018
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.01467,
+          "spin": 0.004659
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.008952,
+          "spin": 0.029573
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.03405,
+          "spin": 0.034618
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012585,
+          "spin": -0.00059
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020868,
+          "spin": 4.8e-05
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.4921011057014097,
+        "C1-C3": 1.496217747147622,
+        "C2-C3": 1.5143189957271899,
+        "C2-C9": 1.3355946587057665
+      },
+      "input_to_accepted_geometry_error_A": 5.291772020576957e-10,
+      "SP_minus_IRC_interpolated_energy_Eh": 6.05496296657293e-07,
+      "source": "received/irc-spin-forward-3814-20261018T201323Z/raw/jobs/irc-spin-forward/point-038/calc.out",
+      "source_sha256": "1f0268a0c677b2e3c5961cf972d81cef4628744ba88d0e4ffbbc2faa9bd4ee6d",
+      "fchk_sha256": "4cf352214c99cfa447dfff895028a1b0596dac1127ce4c43e30de377aee2ef0f",
+      "relative_E_kcal_mol": -1.6186458323776252
+    }
+  ],
+  "reference_reactant": "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.fchk",
+  "reference_E_Eh": -156.4454319181782,
+  "TS_relative_E_kcal_mol": 8.888058001431157,
+  "S2_range": [
+    0.7539157917013952,
+    0.7799449281095079
+  ],
+  "max_spin_sum_error": 2.0000000000575113e-06,
+  "max_SP_vs_interpolated_energy_difference_Eh": 6.05496296657293e-07,
+  "method_note": "Single-point energy and population recomputed together at each accepted corrected IRC geometry; not final-predictor populations"
+}

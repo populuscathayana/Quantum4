@@ -1,0 +1,1064 @@
+{
+  "utc": "2026-10-19T03:29:15.393666+00:00",
+  "status": "six_fixed_geometry_points_verified",
+  "methods": {
+    "b3lyp": {
+      "states": {
+        "R": {
+          "jobid": 3855,
+          "state": "R",
+          "method": "b3lyp",
+          "E_hartree": -156.6215530818754,
+          "S2": 0.7549993041343033,
+          "S2_after_annihilation": 0.7500185442545833,
+          "population_sums": {
+            "Mulliken": {
+              "charge": -1.3877787807814457e-17,
+              "spin": 1.000001
+            },
+            "Hirshfeld": {
+              "charge": -4.999999999977245e-06,
+              "spin": 1.0000010000000001
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.150416,
+                "spin": 0.078429
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.011162,
+                "spin": -0.105321
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.150418,
+                "spin": 0.078464
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.077817,
+                "spin": 0.003732
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.08303,
+                "spin": 0.00498
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.08131,
+                "spin": -1.5e-05
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.083032,
+                "spin": 0.004982
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.077815,
+                "spin": 0.003732
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.287121,
+                "spin": 1.013987
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.087725,
+                "spin": -0.042143
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.108388,
+                "spin": -0.040826
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.064692,
+                "spin": 0.06709
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.037241,
+                "spin": 0.04833
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.06469,
+                "spin": 0.067119
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.037835,
+                "spin": 0.004493
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.038861,
+                "spin": 0.008928
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.037853,
+                "spin": 0.002232
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.03886,
+                "spin": 0.008932
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.037834,
+                "spin": 0.004495
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.077341,
+                "spin": 0.690714
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.025567,
+                "spin": 0.047042
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.027149,
+                "spin": 0.050626
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/b3lyp-r-3855-20261019T032228Z/raw/jobs/b3lyp-r/calc.out",
+          "output_sha256": "7b93625afa124dfb6123e35a63244a2123382491ef9999b0de68ceb9c5ce376e",
+          "fchk": "received/b3lyp-r-3855-20261019T032228Z/raw/jobs/b3lyp-r/calc.fchk",
+          "fchk_sha256": "3ac3d31855e5805195a8987f088e2335df2da36cc91304587f6d66e650ae3653",
+          "source_fchk": "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.fchk",
+          "source_fchk_sha256": "5a57a47092274ebee9d59e7527cd31b3c915581e0b3b1eb38e91ed47bbee3ff8",
+          "input_sha256": "66bdb9fa4b6bc71be9befa39b7257e7769ffcd84f83f51ec64d7d7256c6e2c19",
+          "collection_receipt": "received/b3lyp-r-3855-20261019T032228Z/collection-receipt.json"
+        },
+        "TS": {
+          "jobid": 3856,
+          "state": "TS",
+          "method": "b3lyp",
+          "E_hartree": -156.6097333419542,
+          "S2": 0.777078346567091,
+          "S2_after_annihilation": 0.7501534846365873,
+          "population_sums": {
+            "Mulliken": {
+              "charge": 1.0000000000426335e-06,
+              "spin": 1.0
+            },
+            "Hirshfeld": {
+              "charge": -5.0000000000050004e-06,
+              "spin": 1.0000010000000001
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.242651,
+                "spin": 0.621231
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.08352,
+                "spin": -0.195159
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.047161,
+                "spin": -0.004658
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.10264,
+                "spin": -0.015908
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.106412,
+                "spin": -0.021115
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.105246,
+                "spin": 0.004194
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.078242,
+                "spin": 0.005849
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.070879,
+                "spin": 0.005227
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.274441,
+                "spin": 0.653455
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.084649,
+                "spin": -0.027512
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.099706,
+                "spin": -0.025604
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.061915,
+                "spin": 0.426001
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.025994,
+                "spin": -0.024576
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.053776,
+                "spin": 0.03448
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.03425,
+                "spin": 0.026319
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.033826,
+                "spin": 0.032275
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.038401,
+                "spin": -5.7e-05
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.041173,
+                "spin": 0.006908
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.04186,
+                "spin": 0.006081
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.102366,
+                "spin": 0.43123
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.026678,
+                "spin": 0.029728
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.027858,
+                "spin": 0.031612
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/b3lyp-ts-3856-20261019T032228Z/raw/jobs/b3lyp-ts/calc.out",
+          "output_sha256": "1ee3fef5b301105f0c02385434b92ecd368a32295e63c6a642cf839f0a3e0f86",
+          "fchk": "received/b3lyp-ts-3856-20261019T032228Z/raw/jobs/b3lyp-ts/calc.fchk",
+          "fchk_sha256": "47064730b445efc862f4ffa89c36c6b4081747f6d3efe93aa5621ea09cd9c052",
+          "source_fchk": "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.fchk",
+          "source_fchk_sha256": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+          "input_sha256": "da2d29f1e5d48e548c98e32d52ca16317a699ee6933d01f705ca837d053e973e",
+          "collection_receipt": "received/b3lyp-ts-3856-20261019T032228Z/collection-receipt.json"
+        },
+        "P": {
+          "jobid": 3857,
+          "state": "P",
+          "method": "b3lyp",
+          "E_hartree": -156.6272819721235,
+          "S2": 0.7541076312298252,
+          "S2_after_annihilation": 0.7500111142924987,
+          "population_sums": {
+            "Mulliken": {
+              "charge": 1.0000000000565112e-06,
+              "spin": 0.999999
+            },
+            "Hirshfeld": {
+              "charge": 3.0000000000030003e-06,
+              "spin": 1.0
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.274481,
+                "spin": 1.062712
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.119521,
+                "spin": 0.015172
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.022513,
+                "spin": -0.075972
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.109493,
+                "spin": -0.040087
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.107015,
+                "spin": -0.040981
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.098261,
+                "spin": 0.003256
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.07223,
+                "spin": 0.011369
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.064432,
+                "spin": 0.059929
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.221717,
+                "spin": 0.004674
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.085447,
+                "spin": 0.000114
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.101355,
+                "spin": -0.000187
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.057563,
+                "spin": 0.747963
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.030443,
+                "spin": 0.019095
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.050734,
+                "spin": 0.055064
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.026559,
+                "spin": 0.050875
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.02755,
+                "spin": 0.051128
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.034208,
+                "spin": 0.005367
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.036992,
+                "spin": 0.013118
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.036107,
+                "spin": 0.051046
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.090447,
+                "spin": 0.004495
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.032742,
+                "spin": 0.001581
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.035032,
+                "spin": 0.000268
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/b3lyp-p-3857-20261019T032228Z/raw/jobs/b3lyp-p/calc.out",
+          "output_sha256": "f6345ec6438ba50b39e715d585be81ea88ed1838dc0a679f8d90c733b80af063",
+          "fchk": "received/b3lyp-p-3857-20261019T032228Z/raw/jobs/b3lyp-p/calc.fchk",
+          "fchk_sha256": "e8c1837e0fcd78fe87ddaac1c21de6040646a1d8a8468e1dfb27902d6fd47cab",
+          "source_fchk": "received/product-endpoint-opt-3812-20261018T191624Z/raw/jobs/product-endpoint-opt/calc.fchk",
+          "source_fchk_sha256": "388c53b178718b9db18daed5a1dffb07a708cb9290d9a227cf416e9998e371db",
+          "input_sha256": "acd4204cc3b06bb48b20916536fcfdeea192a2b8b72a560b40665b6780791b62",
+          "collection_receipt": "received/b3lyp-p-3857-20261019T032228Z/collection-receipt.json"
+        }
+      },
+      "electronic_differences_kcal_mol": {
+        "forward": 7.416998781501952,
+        "reverse": 11.011931688066111,
+        "reaction": -3.59493290656416
+      }
+    },
+    "m062x": {
+      "states": {
+        "R": {
+          "jobid": 3858,
+          "state": "R",
+          "method": "m062x",
+          "E_hartree": -156.5231317809245,
+          "S2": 0.7563791271097813,
+          "S2_after_annihilation": 0.7500323985994934,
+          "population_sums": {
+            "Mulliken": {
+              "charge": -2.7755575615628914e-17,
+              "spin": 1.000001
+            },
+            "Hirshfeld": {
+              "charge": -6.000000000016409e-06,
+              "spin": 1.000003
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.182656,
+                "spin": 0.077094
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.041084,
+                "spin": -0.094404
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.182682,
+                "spin": 0.077128
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.096781,
+                "spin": -0.001374
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.10464,
+                "spin": 0.001598
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.093752,
+                "spin": 0.004585
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.104641,
+                "spin": 0.001602
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.096801,
+                "spin": -0.001381
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.357421,
+                "spin": 1.017029
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.123071,
+                "spin": -0.041182
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.144157,
+                "spin": -0.040694
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.069775,
+                "spin": 0.062944
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.045034,
+                "spin": 0.046159
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.069772,
+                "spin": 0.06297
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.039346,
+                "spin": 0.003673
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.0408,
+                "spin": 0.007777
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.039375,
+                "spin": 0.001704
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.040801,
+                "spin": 0.007781
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.039348,
+                "spin": 0.003674
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.070999,
+                "spin": 0.710663
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.026937,
+                "spin": 0.044534
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.028967,
+                "spin": 0.048124
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/m062x-r-3858-20261019T032228Z/raw/jobs/m062x-r/calc.out",
+          "output_sha256": "b4abad56dca780d8efa48ac9040bf1db93c86f6eefc8b98753a5a9b8f6eba1e2",
+          "fchk": "received/m062x-r-3858-20261019T032228Z/raw/jobs/m062x-r/calc.fchk",
+          "fchk_sha256": "1414d512ffeac2fa257cdc351233b632f43235005bfb801f5e43629a8d1af8f2",
+          "source_fchk": "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.fchk",
+          "source_fchk_sha256": "5a57a47092274ebee9d59e7527cd31b3c915581e0b3b1eb38e91ed47bbee3ff8",
+          "input_sha256": "10b68614c38417dad38841ed16d3d3f5612d0b5a6b89ba572249e115beb6edd8",
+          "collection_receipt": "received/m062x-r-3858-20261019T032228Z/collection-receipt.json"
+        },
+        "TS": {
+          "jobid": 3859,
+          "state": "TS",
+          "method": "m062x",
+          "E_hartree": -156.503347602633,
+          "S2": 0.7779882282432702,
+          "S2_after_annihilation": 0.7501723545583496,
+          "population_sums": {
+            "Mulliken": {
+              "charge": 9.999999999177334e-07,
+              "spin": 0.9999990000000001
+            },
+            "Hirshfeld": {
+              "charge": -3.0000000000203475e-06,
+              "spin": 1.0
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.239904,
+                "spin": 0.65238
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.066413,
+                "spin": -0.179562
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.175708,
+                "spin": -0.015842
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.118806,
+                "spin": -0.037193
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.125473,
+                "spin": -0.041598
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.117205,
+                "spin": 0.012861
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.11279,
+                "spin": 0.007645
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.105329,
+                "spin": 0.00544
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.319545,
+                "spin": 0.670239
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.103772,
+                "spin": -0.03718
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.118196,
+                "spin": -0.037191
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.061929,
+                "spin": 0.427829
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.032138,
+                "spin": -0.022894
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.05845,
+                "spin": 0.03485
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.035575,
+                "spin": 0.024702
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.03539,
+                "spin": 0.031075
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.039647,
+                "spin": 0.000422
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.043373,
+                "spin": 0.006404
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.043757,
+                "spin": 0.005491
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.102582,
+                "spin": 0.433161
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.027908,
+                "spin": 0.028446
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.029446,
+                "spin": 0.030514
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/m062x-ts-3859-20261019T032228Z/raw/jobs/m062x-ts/calc.out",
+          "output_sha256": "2fd1add7033a0d31b6a748a44ba8bb8094341afb034943d7cbf5a57f34e5a51b",
+          "fchk": "received/m062x-ts-3859-20261019T032228Z/raw/jobs/m062x-ts/calc.fchk",
+          "fchk_sha256": "0aa59088ef2e3e1ef4a2325a30af9ebb8d380c70438b773513cc7c6cc91c8781",
+          "source_fchk": "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.fchk",
+          "source_fchk_sha256": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+          "input_sha256": "74cf2525043b4e101ac1cae74bb9f10c21af6990222a4afbbfd0d9c35b113fca",
+          "collection_receipt": "received/m062x-ts-3859-20261019T032228Z/collection-receipt.json"
+        },
+        "P": {
+          "jobid": 3860,
+          "state": "P",
+          "method": "m062x",
+          "E_hartree": -156.5215732939346,
+          "S2": 0.7554098161950069,
+          "S2_after_annihilation": 0.750022832865089,
+          "population_sums": {
+            "Mulliken": {
+              "charge": 2.0000000000436335e-06,
+              "spin": 0.9999990000000001
+            },
+            "Hirshfeld": {
+              "charge": 6.999999999993123e-06,
+              "spin": 1.0000010000000001
+            }
+          },
+          "populations": {
+            "Mulliken": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.358739,
+                "spin": 1.059874
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.094104,
+                "spin": 0.033947
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.150824,
+                "spin": -0.095612
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.157895,
+                "spin": -0.040201
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.152352,
+                "spin": -0.039423
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.121225,
+                "spin": -0.007682
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.113438,
+                "spin": 0.019172
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.100655,
+                "spin": 0.068571
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.240346,
+                "spin": 0.00249
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.090201,
+                "spin": -0.001043
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.108249,
+                "spin": -9.4e-05
+              }
+            ],
+            "Hirshfeld": [
+              {
+                "atom": 1,
+                "element": "C",
+                "charge": -0.054154,
+                "spin": 0.762879
+              },
+              {
+                "atom": 2,
+                "element": "C",
+                "charge": -0.035328,
+                "spin": 0.018713
+              },
+              {
+                "atom": 3,
+                "element": "C",
+                "charge": -0.056051,
+                "spin": 0.054166
+              },
+              {
+                "atom": 4,
+                "element": "H",
+                "charge": 0.027522,
+                "spin": 0.047801
+              },
+              {
+                "atom": 5,
+                "element": "H",
+                "charge": 0.028641,
+                "spin": 0.047994
+              },
+              {
+                "atom": 6,
+                "element": "H",
+                "charge": 0.035339,
+                "spin": 0.004992
+              },
+              {
+                "atom": 7,
+                "element": "H",
+                "charge": 0.037748,
+                "spin": 0.011869
+              },
+              {
+                "atom": 8,
+                "element": "H",
+                "charge": 0.035737,
+                "spin": 0.046303
+              },
+              {
+                "atom": 9,
+                "element": "C",
+                "charge": -0.091617,
+                "spin": 0.003762
+              },
+              {
+                "atom": 10,
+                "element": "H",
+                "charge": 0.034837,
+                "spin": 0.001349
+              },
+              {
+                "atom": 11,
+                "element": "H",
+                "charge": 0.037333,
+                "spin": 0.000173
+              }
+            ]
+          },
+          "stable": true,
+          "normal_terminations": 2,
+          "formchk_exitcode": 0,
+          "basis_functions": 222,
+          "electrons": 31,
+          "atoms": 11,
+          "source_coordinate_max_difference_A": 0.0,
+          "two_link_energy_difference_hartree": 0.0,
+          "output": "received/m062x-p-3860-20261019T032228Z/raw/jobs/m062x-p/calc.out",
+          "output_sha256": "e43994b25f4f944ac199a556bfbc7ad7bad2de5bcdd1a5da745373c749833797",
+          "fchk": "received/m062x-p-3860-20261019T032228Z/raw/jobs/m062x-p/calc.fchk",
+          "fchk_sha256": "6fb4249d373982a9bb40f28fce5785f383f152d89e4c70db9593f7b245c22c08",
+          "source_fchk": "received/product-endpoint-opt-3812-20261018T191624Z/raw/jobs/product-endpoint-opt/calc.fchk",
+          "source_fchk_sha256": "388c53b178718b9db18daed5a1dffb07a708cb9290d9a227cf416e9998e371db",
+          "input_sha256": "3669fe917db14aab6f2583b78e2358ff67ec43c1a37fdda18e5b9a1bc6b36c68",
+          "collection_receipt": "received/m062x-p-3860-20261019T032228Z/collection-receipt.json"
+        }
+      },
+      "electronic_differences_kcal_mol": {
+        "forward": 12.41475931447104,
+        "reverse": 11.436793963109082,
+        "reaction": 0.977965351361957
+      }
+    }
+  },
+  "manifest_sha256": "aa70775e548519be53c216a8e648716163bc6158a24f5ae696841c18ac5830f4",
+  "scope": "Fixed original B3LYP-D3BJ/def2-SVP geometries; electronic energy comparison, no new optimization/frequency/Gibbs/IRC.",
+  "review_flags": [],
+  "conventions": {
+    "B3LYP": "GD3BJ",
+    "M06-2X": "No added dispersion",
+    "basis": "def2-TZVPP, spherical 5D7F"
+  }
+}

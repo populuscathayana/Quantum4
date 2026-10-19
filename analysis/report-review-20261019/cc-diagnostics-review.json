@@ -1,0 +1,18 @@
+{
+  "reviewed_on": "2026-10-19",
+  "audit": "analysis/report-review-20261019/cc-benchmark-audit.json",
+  "audit_sha256": "09f57db2ef2da0e6c88ccf8e23c8d62331aa95f3db69da3a277a29ecf5c5300a",
+  "disposition": "accepted_for_fixed_geometry_electronic_comparison_with_reported_diagnostics",
+  "reviewed_flags": ["TS: inspect open-shell reference/correlation diagnostics before interpretation"],
+  "evidence": [
+    "TS calc.out lines 658, 1749-1775 and 1943: UHF S2=0.958013, actual valence-QRO localization converged, QROs reread for the open-shell correlated calculation.",
+    "TS calc.out lines 2528-2549: CCSD converged in 13 iterations, residual 9.90e-7, linearized CCSD S2=0.7531835 versus ideal doublet 0.75; T1 diagnostic=0.020536817.",
+    "TS largest printed PNO amplitude magnitude=0.079153; R/P T1 diagnostics=0.013498948/0.013111156. All four spin-triples blocks and final energies independently checked by the audit.",
+    "Warnings inspected: forced SCF convergence, unrestricted UNO/QRO treatment, unsupported full-LMP2 guess disabled, RHF-only CIS update disabled, and deprecated/recanonicalization switches. All three states use the same open-shell model and completed successfully."
+  ],
+  "interpretation": "Initial UHF spin contamination is retained explicitly, not relabeled as the correlated-wavefunction value. QRO use and the printed correlated diagnostics support including these completed calculations as a fixed-geometry method comparison. These diagnostics do not prove an exact single-reference wavefunction or complete-basis accuracy; no extra reference calculation was performed.",
+  "report_requirements": ["Separate UHF and linearized CCSD S2 columns", "Print T1 diagnostics", "Identify fixed-geometry electronic comparison", "Do not claim exact benchmark, new optimized barrier, new IRC or new Gibbs energy"],
+  "source": "https://www.faccts.de/docs/orca/6.1/manual/contents/modelchemistries/mdci.html",
+  "raw_audit_flags_preserved": true,
+  "additional_quantum_calculations_started": false
+}

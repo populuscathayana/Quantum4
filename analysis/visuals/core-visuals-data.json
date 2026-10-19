@@ -1,0 +1,83 @@
+{
+  "sources": {
+    "Gau4-stage2-ts-20261019/scan-selection.json": "e6bad7904c5e9e7eff8489cdcb7d25463a2b8e504274757919038f290710d93a",
+    "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.fchk": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+    "analysis/irc-20261019/forward.json": "814a0f930241d802cf8e61c20db409826b4a29c10fb1a7161e0618852ee2db3d",
+    "analysis/irc-20261019/reverse.json": "6fb5e70eaaad2235d851f895cbe8d81ead66eb1560e90f8893595c638464a2fb"
+  },
+  "scan_rows": [
+    {
+      "C1_C2_A": 1.5100000580254955,
+      "energy_hartree": 0.0648243129496
+    },
+    {
+      "C1_C2_A": 1.6099991517976027,
+      "energy_hartree": 0.0650147860772
+    },
+    {
+      "C1_C2_A": 1.7099995753303567,
+      "energy_hartree": 0.0712555367263
+    },
+    {
+      "C1_C2_A": 1.809999389956527,
+      "energy_hartree": 0.0768848305448
+    },
+    {
+      "C1_C2_A": 1.9100002034717167,
+      "energy_hartree": 0.0769150109002
+    },
+    {
+      "C1_C2_A": 2.010001194072531,
+      "energy_hartree": 0.0718374165768
+    },
+    {
+      "C1_C2_A": 2.110000197420133,
+      "energy_hartree": 0.065524293008
+    },
+    {
+      "C1_C2_A": 2.209999573743398,
+      "energy_hartree": 0.0602869319505
+    },
+    {
+      "C1_C2_A": 2.3100000817149335,
+      "energy_hartree": 0.0569367646555
+    },
+    {
+      "C1_C2_A": 2.4100004161877235,
+      "energy_hartree": 0.05476573891
+    },
+    {
+      "C1_C2_A": 2.509999393317457,
+      "energy_hartree": 0.0545015972548
+    }
+  ],
+  "scan_relative_kcal_mol": [
+    0.0,
+    0.11952369212342759,
+    4.035653849699118,
+    7.568089053092711,
+    7.587027512036807,
+    4.400788968654287,
+    0.4392441183012395,
+    -2.847249564369147,
+    -4.949511281677994,
+    -6.31185050541415,
+    -6.47760189654686
+  ],
+  "IRC_frames": 56,
+  "IRC_TS_frame_index": 17,
+  "TS_frequency_cm_1": -626.1165981103079,
+  "TS_display_max_atom_displacement_A": 0.18,
+  "mode_source": "independent rigid-body-projected mass-weighted Cartesian Hessian",
+  "alignment": "same atom identity, translation and positive-determinant rotation only",
+  "IRC_coordinate_unit": "sqrt(amu) bohr",
+  "IRC_motion": "accepted corrected points, no geometry interpolation",
+  "outputs": {
+    "experiment-report/figures/pm7-scan.png": "fff7da2f4d766c2f4d9b91d315ea2afce69be0f54083fd0d77589903295030e5",
+    "experiment-report/figures/pm7-scan.svg": "7d0442fa91460f62e613fccfcccbceefab0a499bc8066ac36fa9f6a35760c277",
+    "experiment-report/figures/ts-opening-mode.png": "4d2a5eeaeb3569f2ad7a26d9e49cbbf04879d723c2b7755139060e422c550d1e",
+    "experiment-report/figures/irc-key-geometries.png": "5be1a9938e0c0d2dc06fdf4fdf51c9c38a020b5fbecfd2b4e58651deaea4ffc0",
+    "analysis/visuals/ts-opening-mode.gif": "e226bda8edbf92b1f5323acb4bf37308dd0698c21783b7e23e2532ef6b45b757",
+    "analysis/visuals/irc-opening.gif": "70b02c68094580ba5ec5d3d3c036129b8a039fd788d91ecab8af9fe836c8a325"
+  }
+}

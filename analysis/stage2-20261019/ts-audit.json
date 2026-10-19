@@ -1,0 +1,171 @@
+{
+  "source": "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.out",
+  "source_sha256": "f6d11e68cbacac33adf07826f3e2eab160c1343afe495011ad7b747d4b45144a",
+  "fchk_sha256": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+  "normal_termination": true,
+  "optimized": true,
+  "formula": "C4H7",
+  "atoms": 11,
+  "electrons": 31,
+  "alpha": 16,
+  "beta": 15,
+  "vibrational_modes": 27,
+  "imaginary_modes": 1,
+  "frequencies_cm_1": [
+    -626.1166,
+    278.6929,
+    395.8464,
+    492.9003,
+    596.2507,
+    685.5667,
+    732.7092,
+    812.5262,
+    898.9101,
+    905.8064,
+    981.3735,
+    1094.984,
+    1179.1245,
+    1198.9762,
+    1212.139,
+    1259.9512,
+    1395.6147,
+    1428.9804,
+    1468.685,
+    1511.7436,
+    3077.3702,
+    3138.5053,
+    3149.9002,
+    3156.9755,
+    3170.9299,
+    3244.4626,
+    3278.866
+  ],
+  "independent_projected_frequencies_cm_1": [
+    -626.1165981103079,
+    278.69294050316444,
+    395.8464057936002,
+    492.9002902061107,
+    596.2506993956573,
+    685.5666848454279,
+    732.7092199956937,
+    812.526217682693,
+    898.910103530546,
+    905.8063639601384,
+    981.3735300815465,
+    1094.9840269377357,
+    1179.12454777872,
+    1198.9761657963202,
+    1212.1389674096554,
+    1259.951229029624,
+    1395.6147279833317,
+    1428.9803493384306,
+    1468.6849800006482,
+    1511.7435502216097,
+    3077.370186817773,
+    3138.5052779560756,
+    3149.9001902852233,
+    3156.9754824121915,
+    3170.929943209409,
+    3244.4625628525823,
+    3278.8660069664547
+  ],
+  "frequency_reconstruction_max_difference_cm_1": 5.0661569275689544e-05,
+  "rigid_subspace_rank": 6,
+  "geometry_out_fchk_max_difference_A": 4.753472867546904e-07,
+  "energy_out_fchk_difference_hartree": 1.6839862837514374e-10,
+  "max_cartesian_gradient_Eh_bohr": 1.88250333e-06,
+  "rms_cartesian_gradient_Eh_bohr": 5.632212780823788e-07,
+  "energy_hartree": -156.4312678961684,
+  "S2": 0.7788143089974255,
+  "S2_after": 0.7501593713379556,
+  "Mulliken_spin_sum": 1.0,
+  "Mulliken_populations": [
+    {
+      "atom": 1,
+      "element": "C",
+      "charge": -0.121227,
+      "spin": 0.638572
+    },
+    {
+      "atom": 2,
+      "element": "C",
+      "charge": -0.143897,
+      "spin": -0.210757
+    },
+    {
+      "atom": 3,
+      "element": "C",
+      "charge": 0.128616,
+      "spin": -0.014763
+    },
+    {
+      "atom": 4,
+      "element": "H",
+      "charge": 0.043456,
+      "spin": -0.024297
+    },
+    {
+      "atom": 5,
+      "element": "H",
+      "charge": 0.042387,
+      "spin": -0.024304
+    },
+    {
+      "atom": 6,
+      "element": "H",
+      "charge": 0.019434,
+      "spin": 0.008939
+    },
+    {
+      "atom": 7,
+      "element": "H",
+      "charge": 0.019757,
+      "spin": 0.006034
+    },
+    {
+      "atom": 8,
+      "element": "H",
+      "charge": 0.018598,
+      "spin": 0.005314
+    },
+    {
+      "atom": 9,
+      "element": "C",
+      "charge": -0.033995,
+      "spin": 0.674867
+    },
+    {
+      "atom": 10,
+      "element": "H",
+      "charge": 0.007176,
+      "spin": -0.029747
+    },
+    {
+      "atom": 11,
+      "element": "H",
+      "charge": 0.019694,
+      "spin": -0.029858
+    }
+  ],
+  "thermochemistry_raw_hartree": {
+    "ZPE": 0.09283,
+    "G_correction": 0.065856,
+    "E_ZPE": -156.338438,
+    "H": -156.332954,
+    "G": -156.365412
+  },
+  "distances_A": {
+    "C1-C2": 1.9166746074219883,
+    "C1-C3": 1.481889211090791,
+    "C2-C3": 1.494910957795885,
+    "C2-C9": 1.3863138220736482
+  },
+  "wavefunction_stability": "stable_unchanged_energy_and_geometry",
+  "stability_job_id": 3809,
+  "stability_source": "received/ts-stable-3809-20261018T172117Z/raw/jobs/ts-stable/calc.out",
+  "stability_source_sha256": "57cd5d4b1a97be2397a470eb0a584eda582425c6c4263ba33c6539e1ba822ba3",
+  "mode_identity": "C1-C2 opening coupled to C2-C9 shortening",
+  "mode_bond_length_derivatives_unit_normalized_cartesian": {"C1-C2":1.1220233697371518,"C2-C9":-0.2668067320728246,"C1-C3":0.03949219872757732,"C2-C3":0.03502487766101389},
+  "electronic_barrier_relative_to_reactant_kcal_mol": 8.888058001984039,
+  "mode_evidence": "Gau4-stage3-ts-stability-20261019/ts-gate.json"
+}

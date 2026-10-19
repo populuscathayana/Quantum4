@@ -1,0 +1,11 @@
+*.pdf binary
+*.png binary
+*.gif binary
+# Scientific text is hashed byte-for-byte; do not rewrite line endings on checkout.
+*.out -text
+*.fchk -text
+*.gjf -text
+*.inp -text
+*.json -text
+*.tex -text
+*.py -text

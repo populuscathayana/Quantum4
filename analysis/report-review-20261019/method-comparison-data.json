@@ -1,0 +1,41 @@
+{
+  "rows": [
+    {
+      "method": "B3LYP-D3(BJ) / SVP",
+      "forward": 8.888058001984039,
+      "reverse": 10.729262625489007,
+      "reaction": -1.841204623504968
+    },
+    {
+      "method": "B3LYP-D3(BJ) / TZVPP",
+      "forward": 7.416998781501952,
+      "reverse": 11.011931688066111,
+      "reaction": -3.59493290656416
+    },
+    {
+      "method": "M06-2X / TZVPP",
+      "forward": 12.41475931447104,
+      "reverse": 11.436793963109082,
+      "reaction": 0.977965351361957
+    },
+    {
+      "method": "DLPNO-CCSD(T1) / TZVPP",
+      "forward": 8.943819304715973,
+      "reverse": 11.593317053834571,
+      "reaction": -2.6494977491186
+    }
+  ],
+  "basis_change_forward_kcal_mol": -1.4710592204820871,
+  "CC_minus_B3TZ_forward_kcal_mol": 1.5268205232140213,
+  "M062X_minus_CC_forward_kcal_mol": 3.4709400097550667,
+  "sources": {
+    "analysis/thermochemistry-20261019/audit.json": "2f42e6e6295fa79b271d0555a02e338011064a721792dc1c6153096dc0ba86c7",
+    "analysis/report-review-20261019/dft-crosscheck-audit.json": "f26cee667f96dd5c3c48aa4b91c79ee0bcbec99aa7f14d2ba13284073be316d4",
+    "analysis/report-review-20261019/cc-benchmark-audit.json": "09f57db2ef2da0e6c88ccf8e23c8d62331aa95f3db69da3a277a29ecf5c5300a",
+    "analysis/report-review-20261019/cc-diagnostics-review.json": "2dc65a9ca973489b70c5213ac43328b67f2273166df148067042cbd6d10dc959"
+  },
+  "outputs": {
+    "experiment-report/figures/electronic-method-comparison.png": "106823186c373ba42a36270cb1aeab580f87fe0e5b948d0c1d3210f2550ca9bc"
+  },
+  "scope": "Each panel has its own method R=0; identical nuclear geometries, common vertical scale, dashed schematic connections, not an IRC or Gibbs curve."
+}

@@ -1,0 +1,165 @@
+{
+  "source": "received/reactant-endpoint-opt-3813-20261018T191840Z/raw/jobs/reactant-endpoint-opt/calc.out",
+  "source_sha256": "69b8214fcdea8984714d82a2381d4dbaa2bb1dd0921a52dd9a9f999de54cf476",
+  "fchk_sha256": "fa996eb70ec41c259df51b36bf0369c1d9f4eacd3f867c2077d3762af0adb34e",
+  "normal_termination": true,
+  "optimized": true,
+  "formula": "C4H7",
+  "atoms": 11,
+  "electrons": 31,
+  "alpha": 16,
+  "beta": 15,
+  "vibrational_modes": 27,
+  "imaginary_modes": 0,
+  "frequencies_cm_1": [
+    161.8422,
+    333.0882,
+    375.1996,
+    486.9856,
+    775.3824,
+    781.3625,
+    811.9518,
+    845.4825,
+    919.7552,
+    1024.7293,
+    1039.906,
+    1058.429,
+    1108.6531,
+    1183.3259,
+    1207.6707,
+    1211.9495,
+    1369.4627,
+    1435.4781,
+    1460.5758,
+    1480.2647,
+    3117.2313,
+    3121.9051,
+    3144.3628,
+    3148.8413,
+    3208.2333,
+    3220.7491,
+    3260.2478
+  ],
+  "independent_projected_frequencies_cm_1": [
+    161.84220410504628,
+    333.0881907316565,
+    375.1996014366034,
+    486.9855622329277,
+    775.3823665013227,
+    781.3624680884326,
+    811.9517921411075,
+    845.4825478017017,
+    919.7552366463714,
+    1024.729299039822,
+    1039.9059631941293,
+    1058.4290369949551,
+    1108.6531277038137,
+    1183.3259266123819,
+    1207.6707475784667,
+    1211.9495319270604,
+    1369.4627297380928,
+    1435.4781396199721,
+    1460.5757545999086,
+    1480.264655872735,
+    3117.231299872571,
+    3121.9051252405584,
+    3144.362790877812,
+    3148.841307042753,
+    3208.2332832484253,
+    3220.7491257416423,
+    3260.2478437771506
+  ],
+  "frequency_reconstruction_max_difference_cm_1": 4.780170172580256e-05,
+  "rigid_subspace_rank": 6,
+  "geometry_out_fchk_max_difference_A": 4.988339117328877e-07,
+  "energy_out_fchk_difference_hartree": 3.5129232855979353e-10,
+  "max_cartesian_gradient_Eh_bohr": 7.5521486e-07,
+  "rms_cartesian_gradient_Eh_bohr": 3.4231421965415206e-07,
+  "energy_hartree": -156.4454316106487,
+  "S2": 0.7546436849660765,
+  "S2_after": 0.7500160368430836,
+  "Mulliken_spin_sum": 1.000001,
+  "Mulliken_populations": [
+    {
+      "atom": 1,
+      "element": "C",
+      "charge": -0.016365,
+      "spin": 0.080342
+    },
+    {
+      "atom": 2,
+      "element": "C",
+      "charge": -0.104942,
+      "spin": -0.102383
+    },
+    {
+      "atom": 3,
+      "element": "C",
+      "charge": -0.016383,
+      "spin": 0.080396
+    },
+    {
+      "atom": 4,
+      "element": "H",
+      "charge": 0.028109,
+      "spin": -0.000215
+    },
+    {
+      "atom": 5,
+      "element": "H",
+      "charge": 0.030065,
+      "spin": 0.004529
+    },
+    {
+      "atom": 6,
+      "element": "H",
+      "charge": 0.014908,
+      "spin": 0.001675
+    },
+    {
+      "atom": 7,
+      "element": "H",
+      "charge": 0.030066,
+      "spin": 0.004532
+    },
+    {
+      "atom": 8,
+      "element": "H",
+      "charge": 0.02811,
+      "spin": -0.000216
+    },
+    {
+      "atom": 9,
+      "element": "C",
+      "charge": -0.029212,
+      "spin": 1.024324
+    },
+    {
+      "atom": 10,
+      "element": "H",
+      "charge": 0.010183,
+      "spin": -0.046188
+    },
+    {
+      "atom": 11,
+      "element": "H",
+      "charge": 0.02546,
+      "spin": -0.046795
+    }
+  ],
+  "thermochemistry_raw_hartree": {
+    "ZPE": 0.094073,
+    "G_correction": 0.066711,
+    "E_ZPE": -156.351359,
+    "H": -156.345455,
+    "G": -156.37872
+  },
+  "distances_A": {
+    "C1-C2": 1.530791526275882,
+    "C1-C3": 1.4936991449318702,
+    "C2-C3": 1.5308117921585318,
+    "C2-C9": 1.457940542657663
+  },
+  "wavefunction_stability": "separate_test_pending",
+  "mode_identity": "minimum_no_imaginary"
+}

@@ -1,0 +1,239 @@
+{
+  "states": {
+    "R": {
+      "source": {
+        "fchk_source": "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.fchk",
+        "sha256": "5a57a47092274ebee9d59e7527cd31b3c915581e0b3b1eb38e91ed47bbee3ff8",
+        "stability": {
+          "source": "received/reactant-stable-3807-20261018T171936Z/raw/jobs/reactant-stable/calc.out",
+          "source_sha256": "96126d77f7b871aa21d66e5efdc472e21707724907381b192ef46706feee86d7",
+          "unchanged_energy": true,
+          "unchanged_geometry": true,
+          "stable": true
+        },
+        "grid_spacing_bohr": 0.14,
+        "padding_bohr": 6,
+        "origin_bohr": [
+          -8.540000000000001,
+          -7.140000000000001,
+          -8.680000000000001
+        ],
+        "counts": [
+          125,
+          143,
+          129
+        ],
+        "spin_cube_source": {
+          "remote": "/cluster/USER/Class4/Gau4-stage8-spin-density-20261019/jobs/spin-density/R/Spin.cube",
+          "local": "received/spin-density-3818-20261018T202303Z/raw/jobs/spin-density/R/Spin.cube",
+          "sha256": "03f01a131bcaf102cefd21427b2003421da80535b45f60262c4f2c0e2c034576"
+        }
+      },
+      "cube_sha256": {
+        "Spin": "03f01a131bcaf102cefd21427b2003421da80535b45f60262c4f2c0e2c034576",
+        "FAlpha": "3c7c616a91eb664850908aa9eb32174c8ac572e6aca9980facde9f242f218c01",
+        "FBeta": "a7699c9faa52235eafd5d1a116abf2be23bfd381925dc26edd098bf65244d612"
+      },
+      "counts": [
+        125,
+        143,
+        129
+      ],
+      "origin_bohr": [
+        -8.54,
+        -7.14,
+        -8.68
+      ],
+      "axes_bohr": [
+        [
+          0.14,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.14,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.14
+        ]
+      ],
+      "voxel_volume_bohr3": 0.0027440000000000008,
+      "integrals_electrons": {
+        "Spin": 0.9999979874504669,
+        "FAlpha": 15.986448457309093,
+        "FBeta": 14.986450422112108
+      },
+      "max_alpha_minus_beta_vs_spin_residual": 9.110000000041307e-05,
+      "max_roundoff_normalized_residual": 0.4643068734205419,
+      "spin_min_max_au": [
+        -0.0186996,
+        0.15506
+      ],
+      "max_boundary_density_au": 2.56277e-08,
+      "positive_surface_exists": true,
+      "negative_surface_exists": false
+    },
+    "TS": {
+      "source": {
+        "fchk_source": "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.fchk",
+        "sha256": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+        "stability": {
+          "source": "received/ts-stable-3809-20261018T172117Z/raw/jobs/ts-stable/calc.out",
+          "source_sha256": "57cd5d4b1a97be2397a470eb0a584eda582425c6c4263ba33c6539e1ba822ba3",
+          "unchanged_energy": true,
+          "unchanged_geometry": true,
+          "stable": true
+        },
+        "grid_spacing_bohr": 0.14,
+        "padding_bohr": 6,
+        "origin_bohr": [
+          -8.540000000000001,
+          -7.140000000000001,
+          -8.680000000000001
+        ],
+        "counts": [
+          124,
+          142,
+          128
+        ],
+        "spin_cube_source": {
+          "remote": "/cluster/USER/Class4/Gau4-stage8-spin-density-20261019/jobs/spin-density/TS/Spin.cube",
+          "local": "received/spin-density-3818-20261018T202303Z/raw/jobs/spin-density/TS/Spin.cube",
+          "sha256": "fbca5745f64d8281d0c9ca9046ca36174a39c24656399f0742141c3a5582799b"
+        }
+      },
+      "cube_sha256": {
+        "Spin": "fbca5745f64d8281d0c9ca9046ca36174a39c24656399f0742141c3a5582799b",
+        "FAlpha": "d99e7271caed17dad21cdc54f962bfb133cfa2e6e3ac99894f9d6fa5c423f1f9",
+        "FBeta": "ccf360eb9436edd725f7f59fdd526ac3b642ef7b8a6f082b2f355be13c034a71"
+      },
+      "counts": [
+        124,
+        142,
+        128
+      ],
+      "origin_bohr": [
+        -8.54,
+        -7.14,
+        -8.68
+      ],
+      "axes_bohr": [
+        [
+          0.14,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.14,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.14
+        ]
+      ],
+      "voxel_volume_bohr3": 0.0027440000000000008,
+      "integrals_electrons": {
+        "Spin": 0.9999365052321667,
+        "FAlpha": 15.988114085570366,
+        "FBeta": 14.988177345649767
+      },
+      "max_alpha_minus_beta_vs_spin_residual": 6.780000000051328e-05,
+      "max_roundoff_normalized_residual": 0.3363089953189999,
+      "spin_min_max_au": [
+        -0.0332036,
+        0.119327
+      ],
+      "max_boundary_density_au": 1.18559e-07,
+      "positive_surface_exists": true,
+      "negative_surface_exists": true
+    },
+    "P": {
+      "source": {
+        "fchk_source": "received/product-endpoint-opt-3812-20261018T191624Z/raw/jobs/product-endpoint-opt/calc.fchk",
+        "sha256": "388c53b178718b9db18daed5a1dffb07a708cb9290d9a227cf416e9998e371db",
+        "stability": {
+          "source": "received/product-endpoint-stable-3816-20261018T201323Z/raw/jobs/product-endpoint-stable/calc.out",
+          "source_sha256": "ec4386eef55cf0aa11c088de553e3c74d56ac37942a657ca039695c91294bd9f",
+          "unchanged_energy": true,
+          "unchanged_geometry": true,
+          "stable": true
+        },
+        "grid_spacing_bohr": 0.14,
+        "padding_bohr": 6,
+        "origin_bohr": [
+          -9.24,
+          -11.200000000000001,
+          -8.540000000000001
+        ],
+        "counts": [
+          125,
+          162,
+          125
+        ],
+        "spin_cube_source": {
+          "remote": "/cluster/USER/Class4/Gau4-stage8-spin-density-20261019/jobs/spin-density/P/Spin.cube",
+          "local": "received/spin-density-3818-20261018T202303Z/raw/jobs/spin-density/P/Spin.cube",
+          "sha256": "7d4175eb12640fdf319131244a59bae3d75ed73f0e41d9e15c46b721d63d9ce0"
+        }
+      },
+      "cube_sha256": {
+        "Spin": "7d4175eb12640fdf319131244a59bae3d75ed73f0e41d9e15c46b721d63d9ce0",
+        "FAlpha": "79387b630e2437e2ab099a46241a840e5c4d67a5519ae6d824a4f1fe7cd16851",
+        "FBeta": "2ac17a45a9f63f0c3880669055a2edb57db303b9fab5f0aaef371d71596f625b"
+      },
+      "counts": [
+        125,
+        162,
+        125
+      ],
+      "origin_bohr": [
+        -9.24,
+        -11.2,
+        -8.54
+      ],
+      "axes_bohr": [
+        [
+          0.14,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.14,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.14
+        ]
+      ],
+      "voxel_volume_bohr3": 0.0027440000000000008,
+      "integrals_electrons": {
+        "Spin": 1.0000625276462427,
+        "FAlpha": 15.994818517090865,
+        "FBeta": 14.99475675175924
+      },
+      "max_alpha_minus_beta_vs_spin_residual": 8.170000000178729e-05,
+      "max_roundoff_normalized_residual": 0.4929303923183489,
+      "spin_min_max_au": [
+        -0.015215,
+        0.169106
+      ],
+      "max_boundary_density_au": 3.27182e-08,
+      "positive_surface_exists": true,
+      "negative_surface_exists": false
+    }
+  },
+  "figure": "experiment-report/figures/spin-density.png",
+  "figure_sha256": "d8d8733f3e08ef45e7b67f1fbaac2bbde07492a26e003657597bc034a678aceb",
+  "interpretation": "SCF spin density, not an orbital isosurface; independent full-electron FAlpha/FBeta cubes on same grid",
+  "cube_source": "received/spin-density-full-3819-20261018T202752Z/raw/jobs/spin-density-full"
+}

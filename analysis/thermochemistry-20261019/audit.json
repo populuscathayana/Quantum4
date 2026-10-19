@@ -1,0 +1,519 @@
+{
+  "states": {
+    "R": {
+      "source": "received/reactant-opt-3806-20261018T171133Z/raw/jobs/reactant-opt/calc.out",
+      "source_sha256": "eb535dfe639527893a67fda5a1c766618b084a1bd087e4f4d92122b344e05bfa",
+      "fchk_sha256": "5a57a47092274ebee9d59e7527cd31b3c915581e0b3b1eb38e91ed47bbee3ff8",
+      "temperature_K": 298.15,
+      "pressure_atm": 1.0,
+      "stability": {
+        "source": "received/reactant-stable-3807-20261018T171936Z/raw/jobs/reactant-stable/calc.out",
+        "source_sha256": "96126d77f7b871aa21d66e5efdc472e21707724907381b192ef46706feee86d7",
+        "unchanged_energy": true,
+        "unchanged_geometry": true,
+        "stable": true
+      },
+      "E_hartree": -156.4454319181782,
+      "raw_thermochemistry_hartree": {
+        "ZPE": 0.094074,
+        "G_correction": 0.066713,
+        "E_ZPE": -156.351358,
+        "H": -156.345455,
+        "G": -156.378719
+      },
+      "Gaussian_symmetry_number": 1,
+      "symmetry_audit": {
+        "rotational_symmetry_number": 1,
+        "coordinate_tolerance_A": 0.002,
+        "proper_rotations": [
+          {
+            "permutation_1based": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "max_atom_error_A": 9.428728770778955e-16,
+            "detR": 1.0
+          }
+        ],
+        "distance_automorphisms_not_realized_by_proper_rotation": [
+          {
+            "permutation_1based": [
+              3,
+              2,
+              1,
+              8,
+              7,
+              6,
+              5,
+              4,
+              9,
+              10,
+              11
+            ],
+            "max_atom_error_A": 3.233627306542624,
+            "detR": 1.0000000000000018
+          }
+        ],
+        "method": "all element-preserving pair-distance graph automorphisms; Kabsch constrained detR=+1"
+      },
+      "symmetry_G_shift_hartree": 0.0,
+      "G_corrected_hartree": -156.378719,
+      "S2": 0.7546437107299724,
+      "S2_after": 0.7500160370260158,
+      "frequencies_cm_1": [
+        162.0189,
+        333.1723,
+        375.2277,
+        487.0765,
+        775.3726,
+        781.362,
+        811.9745,
+        845.4913,
+        919.7732,
+        1024.7564,
+        1039.9195,
+        1058.4502,
+        1108.6336,
+        1183.33,
+        1207.6742,
+        1211.9581,
+        1369.4779,
+        1435.4623,
+        1460.5868,
+        1480.2575,
+        3117.2307,
+        3121.9064,
+        3144.3687,
+        3148.8329,
+        3208.2362,
+        3220.7527,
+        3260.2534
+      ],
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.016363,
+          "spin": 0.080352
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.104949,
+          "spin": -0.102384
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": -0.016376,
+          "spin": 0.080388
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.02811,
+          "spin": -0.000215
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.030064,
+          "spin": 0.004529
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.014909,
+          "spin": 0.001675
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.030066,
+          "spin": 0.004531
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.028109,
+          "spin": -0.000216
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.029214,
+          "spin": 1.024323
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.010183,
+          "spin": -0.046188
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.025461,
+          "spin": -0.046795
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.5307957010001334,
+        "C1-C3": 1.4936958945304901,
+        "C2-C3": 1.5308108469834485,
+        "C2-C9": 1.4579404573007984
+      },
+      "relative_kcal_mol": {
+        "E": 0.0,
+        "E_ZPE": 0.0,
+        "H": 0.0,
+        "G_raw": 0.0,
+        "G_corrected": 0.0
+      }
+    },
+    "TS": {
+      "source": "received/ts-opt-3808-20261018T171913Z/raw/jobs/ts-opt/calc.out",
+      "source_sha256": "f6d11e68cbacac33adf07826f3e2eab160c1343afe495011ad7b747d4b45144a",
+      "fchk_sha256": "ffa3a263168e5dab46ef4964824a7d0ffc685dbae4c3e927fb2ffc3384aaeb42",
+      "temperature_K": 298.15,
+      "pressure_atm": 1.0,
+      "stability": {
+        "source": "received/ts-stable-3809-20261018T172117Z/raw/jobs/ts-stable/calc.out",
+        "source_sha256": "57cd5d4b1a97be2397a470eb0a584eda582425c6c4263ba33c6539e1ba822ba3",
+        "unchanged_energy": true,
+        "unchanged_geometry": true,
+        "stable": true
+      },
+      "E_hartree": -156.4312678961684,
+      "raw_thermochemistry_hartree": {
+        "ZPE": 0.09283,
+        "G_correction": 0.065856,
+        "E_ZPE": -156.338438,
+        "H": -156.332954,
+        "G": -156.365412
+      },
+      "Gaussian_symmetry_number": 1,
+      "symmetry_audit": {
+        "rotational_symmetry_number": 1,
+        "coordinate_tolerance_A": 0.002,
+        "proper_rotations": [
+          {
+            "permutation_1based": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "max_atom_error_A": 1.897149936107019e-15,
+            "detR": 1.0000000000000007
+          }
+        ],
+        "distance_automorphisms_not_realized_by_proper_rotation": [],
+        "method": "all element-preserving pair-distance graph automorphisms; Kabsch constrained detR=+1"
+      },
+      "symmetry_G_shift_hartree": 0.0,
+      "G_corrected_hartree": -156.365412,
+      "S2": 0.7788143089974255,
+      "S2_after": 0.7501593713379556,
+      "frequencies_cm_1": [
+        -626.1166,
+        278.6929,
+        395.8464,
+        492.9003,
+        596.2507,
+        685.5667,
+        732.7092,
+        812.5262,
+        898.9101,
+        905.8064,
+        981.3735,
+        1094.984,
+        1179.1245,
+        1198.9762,
+        1212.139,
+        1259.9512,
+        1395.6147,
+        1428.9804,
+        1468.685,
+        1511.7436,
+        3077.3702,
+        3138.5053,
+        3149.9002,
+        3156.9755,
+        3170.9299,
+        3244.4626,
+        3278.866
+      ],
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.121227,
+          "spin": 0.638572
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.143897,
+          "spin": -0.210757
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.128616,
+          "spin": -0.014763
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.043456,
+          "spin": -0.024297
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.042387,
+          "spin": -0.024304
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.019434,
+          "spin": 0.008939
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.019757,
+          "spin": 0.006034
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.018598,
+          "spin": 0.005314
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.033995,
+          "spin": 0.674867
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.007176,
+          "spin": -0.029747
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.019694,
+          "spin": -0.029858
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 1.9166746074219883,
+        "C1-C3": 1.481889211090791,
+        "C2-C3": 1.494910957795885,
+        "C2-C9": 1.3863138220736482
+      },
+      "relative_kcal_mol": {
+        "E": 8.888058001984039,
+        "E_ZPE": 8.107422404900435,
+        "H": 7.844495935254095,
+        "G_raw": 8.350268571356112,
+        "G_corrected": 8.350268571356112
+      }
+    },
+    "P": {
+      "source": "received/product-endpoint-opt-3812-20261018T191624Z/raw/jobs/product-endpoint-opt/calc.out",
+      "source_sha256": "928128b97d90d5d6ce70aef7aa4f4148122f9569624202fb8992cb9830c53d7b",
+      "fchk_sha256": "388c53b178718b9db18daed5a1dffb07a708cb9290d9a227cf416e9998e371db",
+      "temperature_K": 298.15,
+      "pressure_atm": 1.0,
+      "stability": {
+        "source": "received/product-endpoint-stable-3816-20261018T201323Z/raw/jobs/product-endpoint-stable/calc.out",
+        "source_sha256": "ec4386eef55cf0aa11c088de553e3c74d56ac37942a657ca039695c91294bd9f",
+        "unchanged_energy": true,
+        "unchanged_geometry": true,
+        "stable": true
+      },
+      "E_hartree": -156.4483660645132,
+      "raw_thermochemistry_hartree": {
+        "ZPE": 0.092791,
+        "G_correction": 0.064306,
+        "E_ZPE": -156.355575,
+        "H": -156.349005,
+        "G": -156.384061
+      },
+      "Gaussian_symmetry_number": 1,
+      "symmetry_audit": {
+        "rotational_symmetry_number": 1,
+        "coordinate_tolerance_A": 0.002,
+        "proper_rotations": [
+          {
+            "permutation_1based": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ],
+            "max_atom_error_A": 1.8343894894033213e-15,
+            "detR": 1.0000000000000018
+          }
+        ],
+        "distance_automorphisms_not_realized_by_proper_rotation": [],
+        "method": "all element-preserving pair-distance graph automorphisms; Kabsch constrained detR=+1"
+      },
+      "symmetry_G_shift_hartree": 0.0,
+      "G_corrected_hartree": -156.384061,
+      "S2": 0.7538622763908531,
+      "S2_after": 0.7500096094059409,
+      "frequencies_cm_1": [
+        98.7914,
+        143.6956,
+        322.6127,
+        422.2702,
+        485.6557,
+        657.7505,
+        794.1181,
+        895.3619,
+        942.5076,
+        1025.987,
+        1043.9057,
+        1073.3966,
+        1112.4701,
+        1222.8395,
+        1300.9401,
+        1327.4609,
+        1418.7709,
+        1435.5992,
+        1440.0824,
+        1720.2955,
+        2943.6471,
+        3021.09,
+        3127.1633,
+        3136.351,
+        3139.8841,
+        3225.4278,
+        3252.6347
+      ],
+      "Mulliken_populations": [
+        {
+          "atom": 1,
+          "element": "C",
+          "charge": -0.113308,
+          "spin": 1.08658
+        },
+        {
+          "atom": 2,
+          "element": "C",
+          "charge": -0.085899,
+          "spin": 0.010498
+        },
+        {
+          "atom": 3,
+          "element": "C",
+          "charge": 0.091979,
+          "spin": -0.085485
+        },
+        {
+          "atom": 4,
+          "element": "H",
+          "charge": 0.037786,
+          "spin": -0.046254
+        },
+        {
+          "atom": 5,
+          "element": "H",
+          "charge": 0.032759,
+          "spin": -0.047798
+        },
+        {
+          "atom": 6,
+          "element": "H",
+          "charge": 0.002896,
+          "spin": 0.003239
+        },
+        {
+          "atom": 7,
+          "element": "H",
+          "charge": 0.019083,
+          "spin": 0.012717
+        },
+        {
+          "atom": 8,
+          "element": "H",
+          "charge": 0.015146,
+          "spin": 0.061101
+        },
+        {
+          "atom": 9,
+          "element": "C",
+          "charge": -0.034184,
+          "spin": 0.005676
+        },
+        {
+          "atom": 10,
+          "element": "H",
+          "charge": 0.012951,
+          "spin": 4.3e-05
+        },
+        {
+          "atom": 11,
+          "element": "H",
+          "charge": 0.020791,
+          "spin": -0.000317
+        }
+      ],
+      "distances_A": {
+        "C1-C2": 2.508143193224526,
+        "C1-C3": 1.4939235308415415,
+        "C2-C3": 1.5070311729186965,
+        "C2-C9": 1.3352491953116434
+      },
+      "relative_kcal_mol": {
+        "E": -1.841204623504968,
+        "E_ZPE": -2.6462074521133108,
+        "H": -2.2276586329355337,
+        "G_raw": -3.352155610453275,
+        "G_corrected": -3.352155610453275
+      }
+    }
+  },
+  "reactant_IRC_endpoint_stability": {
+    "source": "received/reactant-endpoint-stable-3817-20261018T201323Z/raw/jobs/reactant-endpoint-stable/calc.out",
+    "source_sha256": "5ed48fb2246063ac0c8cd60ea40cff20c7f7fe6879c9116244de61421f8af57c",
+    "unchanged_energy": true,
+    "unchanged_geometry": true,
+    "stable": true
+  },
+  "model": "UB3LYP-D3(BJ)/def2-SVP; gas phase doublet; UltraFine; RRHO without frequency scaling",
+  "reference": "single optimized ring radical R3806, not an IRC predictor or PM7 point",
+  "G_convention": "298.15K/1atm; G_corrected=G_Gaussian+RT ln(sigma_true/sigma_Gaussian)",
+  "precision": "Thermal sums printed to1e-6Eh; reported energy differences rounded to0.01kcal/mol"
+}

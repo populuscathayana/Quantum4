@@ -1,0 +1,23 @@
+{
+  "job_id": 3805,
+  "slurm_state": "FAILED",
+  "exit_code": "1:0",
+  "source": "received/pm7-scan-3805-20261018T171133Z/raw/jobs/pm7-scan/calc.out",
+  "source_sha256": "cfba82a82008ada49adb6509120a6dd8f1eb25ed756f9a4a7893e259c764b7d9",
+  "attempted_points": 16,
+  "converged_points": 11,
+  "converged_C1_C2_range_A": [1.51, 2.51],
+  "failed_points": 5,
+  "failed_C1_C2_range_A": [2.61, 3.01],
+  "failure": "The final five constrained optimizations each reached MaxCycles=100; l9999 processed the error termination after the full scan attempt.",
+  "failure_source_lines": [93299, 133955, 174314, 216178, 256657, 257062],
+  "accepted_data": "Only Optimization completed snapshots, independently cross-checked against Gaussian's optimized scan summary for the first 11 distances and energies.",
+  "selected_zero_based_point": 4,
+  "selected_C1_C2_A": 1.9100002034717167,
+  "selected_PM7_energy_hartree": 0.0769150109002,
+  "local_peak_relative_to_first_scan_point_kcal_mol": 7.5870278,
+  "selection_evidence": "Energy rises from 1.81 to 1.91 A and falls at 2.01 A; this is a bracketed local maximum in the opening region.",
+  "interpretation": "PM7 constrained scan height used only to prepare the independent DFT TS, not a DFT activation energy.",
+  "full_accepted_geometries_and_energies": "Gau4-stage2-ts-20261019/scan-selection.json",
+  "recovery": "Raw chk/fchk and all failed scan points preserved; no scan resubmission is needed to obtain the bracketed TS initial guess."
+}

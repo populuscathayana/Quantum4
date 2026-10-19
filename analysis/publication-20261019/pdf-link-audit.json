@@ -1,0 +1,31 @@
+{
+  "status": "passed",
+  "repository": "https://github.com/populuscathayana/Quantum4",
+  "pdf_sha256": "2ec061ced84a4640defeb5a6dd96a5f8a25590bfda05c1310503fc6fe1e25c26",
+  "pages": 16,
+  "repository_link_PDF_pages": [
+    15
+  ],
+  "repository_link_printed_page": 14,
+  "cover_unchanged": true,
+  "pixel_identical_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    16
+  ],
+  "only_TeX_change": "Data and code section inserted after conclusions, before references.",
+  "scientific_content_unchanged": true,
+  "prior_PDF_sha256": "6910217f2f7bc6f783e4573677baa1d45e6095f9a634d6f38195d68263642525"
+}

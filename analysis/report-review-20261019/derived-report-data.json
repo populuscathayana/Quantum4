@@ -1,0 +1,31 @@
+{
+  "decomposition": {
+    "TS": {
+      "E": 8.888058001984039,
+      "delta_ZPE": -0.7806355970836041,
+      "thermal_H_beyond_ZPE": -0.2629264696463398,
+      "minus_T_delta_S": 0.5057726361020176,
+      "G": 8.350268571356112,
+      "delta_S_cal_mol_K": -1.6963697336978623
+    },
+    "P": {
+      "E": -1.841204623504968,
+      "delta_ZPE": -0.8050028286083428,
+      "thermal_H_beyond_ZPE": 0.4185488191777771,
+      "minus_T_delta_S": -1.1244969775177411,
+      "G": -3.352155610453275,
+      "delta_S_cal_mol_K": 3.7715813433430867
+    }
+  },
+  "classical_TST_298K_k_s_1": 4704058.664841846,
+  "local_Arrhenius_Ea_from_DeltaH_plus_RT_kcal_mol": 8.43698088496786,
+  "equilibrium_constant_from_single_conformer_G": 286.5148351100125,
+  "sources": {
+    "analysis/irc-20261019/spin-audit.json": "792fd3ec8461e437c8fbcefe21a15c0af62cc7e0d28da53a74cfb727be40418f",
+    "analysis/thermochemistry-20261019/audit.json": "2f42e6e6295fa79b271d0555a02e338011064a721792dc1c6153096dc0ba86c7"
+  },
+  "outputs": {
+    "experiment-report/figures/irc-bond-spinquality.png": "4ac00d66bbe9f540627335bc6c4ac165bc0271fd2a087508bd2e67d62ca7e6ce",
+    "experiment-report/figures/thermal-decomposition.png": "f9ddc53e0bdc2b3b00ed145d14d54152c94e20dc47a6f3feea2a3e0e4e069aa8"
+  }
+}

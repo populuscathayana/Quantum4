@@ -1,0 +1,6 @@
+%oldchk=/cluster/USER/Class4/Gau4-stage1-20261019/jobs/reactant-opt/calc.chk
+%chk=calc.chk
+%nprocshared=4
+%mem=8GB
+#p UB3LYP/Def2SVP EmpiricalDispersion=GD3BJ SCF=(Tight,XQC) Int=UltraFine NoSymm Geom=AllCheck Guess=Read Stable=Opt Pop=Full
+
